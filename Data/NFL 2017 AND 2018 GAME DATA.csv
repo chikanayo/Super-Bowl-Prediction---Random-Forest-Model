@@ -1,0 +1,1045 @@
+﻿Team,Opponent,SEASON,Game Number,Game Location,Team_Score,Opponent_Score,Team_Passing,Team_Rushing,Team_Turnovers,Opponent_Passing,Opponent_Rushing,Opponent_Turnovers,TEAM_ELO,OPPONENT_ELO,OUTCOME
+Arizona Cardinals,Washington Redskins,2018,1,0,6,24,145,68,2,247,182,1,1482.654417,1471.502394,Loss
+Arizona Cardinals,Los Angeles Rams,2018,2,1,0,34,83,54,1,342,90,1,1445.574198,1560.388471,Loss
+Arizona Cardinals,Chicago Bears,2018,3,0,14,16,168,53,4,194,122,2,1428.345403,1461.5515,Loss
+Arizona Cardinals,Seattle Seahawks,2018,4,0,17,20,171,92,1,160,171,0,1416.180936,1529.356639,Loss
+Arizona Cardinals,San Francisco 49ers,2018,5,1,28,18,164,56,0,300,147,5,1404.484151,1454.216115,Win
+Arizona Cardinals,Minnesota Vikings,2018,6,1,17,27,208,60,2,216,195,2,1437.845577,1557.348121,Loss
+Arizona Cardinals,Denver Broncos,2018,7,0,10,45,154,69,5,178,131,1,1426.477968,1410.392056,Loss
+Arizona Cardinals,San Francisco 49ers,2018,8,0,18,15,233,88,2,160,107,0,1380.742338,1393.076859,Win
+Arizona Cardinals,Kansas City Chiefs,2018,9,1,14,26,166,94,2,212,118,0,1392.244489,1674.725487,Loss
+Arizona Cardinals,Oakland Raiders,2018,10,0,21,23,128,154,2,173,152,0,1386.964811,1321.839461,Loss
+Arizona Cardinals,Los Angeles Chargers,2018,11,1,10,45,87,62,1,236,178,1,1371.108347,1598.515773,Loss
+Arizona Cardinals,Green Bay Packers,2018,12,1,20,17,133,182,0,227,98,0,1361.197211,1467.374947,Win
+Arizona Cardinals,Detroit Lions,2018,13,0,3,17,218,61,1,96,122,1,1383.089912,1441.893402,Loss
+Arizona Cardinals,Atlanta Falcons,2018,14,1,14,40,193,60,3,220,215,0,1355.448627,1467.220143,Loss
+Arizona Cardinals,Los Angeles Rams,2018,15,0,9,31,159,104,0,192,269,1,1339.249397,1613.791118,Loss
+Arizona Cardinals,Seattle Seahawks,2018,16,1,24,27,113,85,2,109,182,1,1326.059193,1602.53307,Loss
+Atlanta Falcons,Philadelphia Eagles,2018,1,1,12,18,225,74,1,119,113,2,1600.64044,1646.78633,Loss
+Atlanta Falcons,Carolina Panthers,2018,2,0,31,24,272,170,1,318,121,1,1587.848622,1567.174456,Win
+Atlanta Falcons,New Orleans Saints,2018,3,0,37,43,359,48,0,391,143,0,1603.025766,1552.780698,Loss
+Atlanta Falcons,Cincinnati Bengals,2018,4,0,36,37,403,92,0,308,99,1,1575.91882,1506.895489,Loss
+Atlanta Falcons,Pittsburgh Steelers,2018,5,1,17,41,262,62,1,250,131,1,1565.82372,1547.2432,Loss
+Atlanta Falcons,Tampa Bay Buccaneers,2018,6,0,34,29,347,70,0,389,121,2,1538.486964,1481.212388,Win
+Atlanta Falcons,New York Giants,2018,7,0,23,20,356,67,1,372,61,0,1549.722343,1370.069752,Win
+Atlanta Falcons,Washington Redskins,2018,8,1,38,14,337,154,1,287,79,1,1554.625175,1523.403011,Win
+Atlanta Falcons,Cleveland Browns,2018,9,1,16,28,311,71,2,216,211,1,1590.484078,1305.108199,Loss
+Atlanta Falcons,Dallas Cowboys,2018,10,0,19,22,274,80,1,191,132,0,1545.987979,1523.891842,Loss
+Atlanta Falcons,New Orleans Saints,2018,11,1,17,31,340,26,4,162,150,1,1528.009076,1711.917364,Loss
+Atlanta Falcons,Baltimore Ravens,2018,12,0,16,26,97,34,1,159,207,1,1518.635102,1559.525742,Loss
+Atlanta Falcons,Green Bay Packers,2018,13,1,20,34,237,107,2,162,138,0,1492.71076,1445.482246,Loss
+Atlanta Falcons,Arizona Cardinals,2018,14,0,40,14,220,215,0,193,60,3,1467.220143,1355.448627,Win
+Atlanta Falcons,Carolina Panthers,2018,15,1,24,10,233,194,2,295,141,4,1483.419373,1499.831436,Win
+Atlanta Falcons,Tampa Bay Buccaneers,2018,16,1,34,32,380,109,1,341,92,1,1518.011923,1424.620817,Win
+Baltimore Ravens,Buffalo Bills,2018,1,0,47,3,252,117,1,70,83,2,1535.270103,1502.216567,Win
+Baltimore Ravens,Cincinnati Bengals,2018,2,1,23,34,359,66,3,265,108,0,1561.692326,1499.240097,Loss
+Baltimore Ravens,Denver Broncos,2018,3,0,27,14,265,77,0,173,120,1,1537.05401,1470.335452,Win
+Baltimore Ravens,Pittsburgh Steelers,2018,4,1,26,14,355,96,1,265,19,2,1552.94156,1581.035409,Win
+Baltimore Ravens,Cleveland Browns,2018,5,1,9,12,294,116,2,304,112,1,1586.73377,1320.299651,Loss
+Baltimore Ravens,Tennessee Titans,2018,6,1,21,0,238,123,1,51,55,0,1563.500128,1515.958153,Win
+Baltimore Ravens,New Orleans Saints,2018,7,0,23,24,274,77,0,205,134,1,1596.222105,1614.543611,Loss
+Baltimore Ravens,Carolina Panthers,2018,8,1,21,36,224,101,3,232,154,0,1588.194619,1574.70359,Loss
+Baltimore Ravens,Pittsburgh Steelers,2018,9,0,16,23,204,61,0,282,113,0,1565.090318,1602.934462,Loss
+Baltimore Ravens,Cincinnati Bengals,2018,10,0,24,21,136,267,1,207,48,0,1542.393738,1480.522839,Win
+Baltimore Ravens,Oakland Raiders,2018,11,0,34,17,174,242,2,182,67,1,1550.916558,1337.695926,Win
+Baltimore Ravens,Atlanta Falcons,2018,12,1,26,16,159,207,1,97,34,1,1559.525742,1518.635102,Win
+Baltimore Ravens,Kansas City Chiefs,2018,13,1,24,27,127,194,1,348,94,1,1585.450084,1673.746816,Loss
+Baltimore Ravens,Tampa Bay Buccaneers,2018,14,0,20,12,128,242,2,156,85,1,1577.864115,1444.075174,Win
+Baltimore Ravens,Los Angeles Chargers,2018,15,1,22,10,202,159,1,147,51,3,1587.598361,1640.980843,Win
+Baltimore Ravens,Cleveland Browns,2018,16,0,26,24,167,296,1,376,50,3,1623.601588,1435.043924,Win
+Baltimore Ravens,Los Angeles Chargers,2018,17,0,17,23,139,90,3,154,89,1,1627.31591,1623.617446,Loss
+Buffalo Bills,Baltimore Ravens,2018,1,1,3,47,70,83,2,252,117,1,1502.216567,1535.270103,Loss
+Buffalo Bills,Los Angeles Chargers,2018,2,0,20,31,209,84,2,240,109,0,1475.794344,1517.779595,Loss
+Buffalo Bills,Minnesota Vikings,2018,3,1,27,6,164,128,0,278,14,3,1449.021558,1608.955504,Win
+Buffalo Bills,Green Bay Packers,2018,4,1,0,22,87,58,3,282,141,2,1503.0752,1457.133693,Loss
+Buffalo Bills,Tennessee Titans,2018,5,0,13,12,79,144,1,121,100,3,1473.693039,1522.518945,Win
+Buffalo Bills,Houston Texans,2018,6,1,13,20,129,100,3,142,74,3,1480.25383,1400.279293,Loss
+Buffalo Bills,Indianapolis Colts,2018,7,1,5,37,168,135,5,156,220,0,1458.415078,1377.874976,Loss
+Buffalo Bills,New England Patriots,2018,8,0,6,25,287,46,2,311,76,0,1421.627269,1646.248272,Loss
+Buffalo Bills,Chicago Bears,2018,9,0,9,41,166,98,4,126,64,1,1405.695997,1496.895056,Loss
+Buffalo Bills,New York Jets,2018,10,1,41,10,239,212,0,116,83,2,1373.743062,1401.928724,Win
+Buffalo Bills,Jacksonville Jaguars,2018,11,0,24,21,160,167,0,107,226,2,1419.413682,1445.662907,Win
+Buffalo Bills,Miami Dolphins,2018,12,1,17,21,217,198,3,115,60,1,1431.523517,1419.067882,Loss
+Buffalo Bills,New York Jets,2018,13,0,23,27,192,176,3,170,78,2,1418.16386,1338.24537,Loss
+Buffalo Bills,Detroit Lions,2018,14,0,14,13,195,117,0,208,105,0,1394.137725,1469.534688,Win
+Buffalo Bills,New England Patriots,2018,15,1,12,24,217,72,3,117,273,3,1401.310456,1626.362307,Loss
+Buffalo Bills,Miami Dolphins,2018,16,0,42,17,215,166,1,126,99,4,1394.128145,1396.27552,Win
+Carolina Panthers,Dallas Cowboys,2018,1,0,16,8,146,147,1,138,94,1,1549.961445,1547.239762,Win
+Carolina Panthers,Atlanta Falcons,2018,2,1,24,31,318,121,1,272,170,1,1567.174456,1587.848622,Loss
+Carolina Panthers,Cincinnati Bengals,2018,3,0,31,21,147,230,0,330,66,4,1551.997312,1523.878414,Win
+Carolina Panthers,New York Giants,2018,4,0,33,31,232,118,2,382,50,3,1568.980237,1390.881853,Win
+Carolina Panthers,Washington Redskins,2018,5,1,17,23,269,81,3,156,132,0,1572.896136,1472.982601,Loss
+Carolina Panthers,Philadelphia Eagles,2018,6,1,21,17,250,121,0,284,58,1,1551.142941,1622.400289,Win
+Carolina Panthers,Baltimore Ravens,2018,7,0,36,21,232,154,0,224,101,3,1574.70359,1588.194619,Win
+Carolina Panthers,Tampa Bay Buccaneers,2018,8,0,42,28,228,179,0,219,82,2,1597.807892,1465.637897,Win
+Carolina Panthers,Pittsburgh Steelers,2018,9,1,21,52,147,95,2,319,138,0,1609.898389,1625.631042,Loss
+Carolina Panthers,Detroit Lions,2018,10,1,19,20,331,56,1,215,94,0,1584.099132,1469.526781,Loss
+Carolina Panthers,Seattle Seahawks,2018,11,0,27,30,256,220,1,322,75,0,1576.002898,1552.964784,Loss
+Carolina Panthers,Tampa Bay Buccaneers,2018,12,1,17,24,276,168,4,220,95,1,1557.979209,1432.052793,Loss
+Carolina Panthers,Cleveland Browns,2018,13,1,20,26,297,96,1,232,116,2,1532.880112,1382.726456,Loss
+Carolina Panthers,New Orleans Saints,2018,14,0,9,12,149,98,2,191,155,2,1507.773206,1715.797622,Loss
+Carolina Panthers,Atlanta Falcons,2018,15,0,10,24,295,141,4,233,194,2,1499.831436,1483.419373,Loss
+Carolina Panthers,New Orleans Saints,2018,16,1,33,14,263,111,0,110,184,1,1465.238886,1730.435133,Win
+Chicago Bears,Green Bay Packers,2018,1,1,23,24,155,139,1,301,69,2,1443.862147,1471.719666,Loss
+Chicago Bears,Seattle Seahawks,2018,2,0,24,17,185,86,2,202,74,2,1438.94776,1529.789551,Win
+Chicago Bears,Arizona Cardinals,2018,3,1,16,14,194,122,2,168,53,4,1461.5515,1428.345403,Win
+Chicago Bears,Tampa Bay Buccaneers,2018,4,0,48,10,344,139,0,251,60,3,1473.715966,1514.985292,Win
+Chicago Bears,Miami Dolphins,2018,5,1,28,31,303,164,3,380,161,3,1507.48887,1473.669334,Loss
+Chicago Bears,New England Patriots,2018,6,0,31,38,319,134,2,273,108,3,1495.043114,1630.105325,Loss
+Chicago Bears,New York Jets,2018,7,0,24,10,216,179,0,150,57,0,1478.900167,1435.326492,Win
+Chicago Bears,Buffalo Bills,2018,8,1,41,9,126,64,1,166,98,4,1496.895056,1405.695997,Win
+Chicago Bears,Detroit Lions,2018,9,0,34,22,348,54,0,229,76,3,1528.847991,1486.67047,Win
+Chicago Bears,Minnesota Vikings,2018,10,0,25,20,160,148,3,246,22,3,1545.99168,1584.831339,Win
+Chicago Bears,Detroit Lions,2018,11,1,23,16,226,38,1,222,111,2,1562.367972,1477.623015,Win
+Chicago Bears,New York Giants,2018,12,1,27,30,258,118,3,197,141,1,1581.807431,1380.512033,Loss
+Chicago Bears,Los Angeles Rams,2018,13,0,15,6,100,194,3,162,52,4,1561.511626,1671.372073,Win
+Chicago Bears,Green Bay Packers,2018,14,0,24,17,232,100,1,235,88,1,1588.034974,1470.972863,Win
+Chicago Bears,San Francisco 49ers,2018,15,1,14,9,235,90,2,232,47,1,1598.006365,1399.558345,Win
+Chicago Bears,Minnesota Vikings,2018,16,1,24,10,163,169,0,101,63,0,1608.71211,1586.100685,Win
+Chicago Bears,Philadelphia Eagles,2018,17,0,15,16,291,65,0,258,42,2,1639.676863,1624.284707,Loss
+Cincinnati Bengals,Indianapolis Colts,2018,1,1,34,23,229,101,2,305,75,2,1474.615256,1406.904376,Win
+Cincinnati Bengals,Baltimore Ravens,2018,2,0,34,23,265,108,0,359,66,3,1499.240097,1561.692326,Win
+Cincinnati Bengals,Carolina Panthers,2018,3,1,21,31,330,66,4,147,230,0,1523.878414,1551.997312,Loss
+Cincinnati Bengals,Atlanta Falcons,2018,4,1,37,36,308,99,1,403,92,0,1506.895489,1575.91882,Win
+Cincinnati Bengals,Miami Dolphins,2018,5,0,27,17,229,103,1,169,128,3,1516.990589,1490.784694,Win
+Cincinnati Bengals,Pittsburgh Steelers,2018,6,0,21,28,213,62,0,369,112,0,1534.105949,1574.579955,Loss
+Cincinnati Bengals,Kansas City Chiefs,2018,7,1,10,45,174,65,1,353,198,1,1511.595104,1644.280221,Loss
+Cincinnati Bengals,Tampa Bay Buccaneers,2018,8,0,37,34,264,138,0,450,126,4,1495.635248,1475.789653,Win
+Cincinnati Bengals,New Orleans Saints,2018,9,0,14,51,174,110,2,265,244,0,1505.787004,1668.690932,Loss
+Cincinnati Bengals,Baltimore Ravens,2018,10,1,21,24,207,48,0,136,267,1,1480.522839,1542.393738,Loss
+Cincinnati Bengals,Cleveland Browns,2018,11,0,20,35,243,129,2,258,84,0,1472.000019,1349.604297,Loss
+Cincinnati Bengals,Denver Broncos,2018,12,0,10,24,202,111,3,143,218,1,1426.765823,1481.130498,Loss
+Cincinnati Bengals,Los Angeles Chargers,2018,13,1,21,26,151,144,0,203,85,0,1398.721046,1626.381905,Loss
+Cincinnati Bengals,Oakland Raiders,2018,14,0,30,16,123,171,1,229,68,2,1393.772075,1346.950119,Win
+Cincinnati Bengals,Cleveland Browns,2018,15,1,18,26,107,102,0,347,146,0,1411.523444,1418.086065,Loss
+Cincinnati Bengals,Pittsburgh Steelers,2018,16,1,13,16,71,125,0,278,65,1,1394.565585,1601.524518,Loss
+Cleveland Browns,Pittsburgh Steelers,2018,1,0,21,21,150,177,1,313,159,6,1301.910164,1595.802933,Win
+Cleveland Browns,New Orleans Saints,2018,2,1,18,21,234,93,1,213,62,2,1310.717644,1549.163577,Loss
+Cleveland Browns,New York Jets,2018,3,0,21,17,190,133,0,161,107,3,1307.100523,1457.443178,Win
+Cleveland Browns,Oakland Raiders,2018,4,1,42,45,279,208,4,426,139,2,1327.876568,1416.438771,Loss
+Cleveland Browns,Baltimore Ravens,2018,5,0,12,9,304,112,1,294,116,2,1320.299651,1586.73377,Win
+Cleveland Browns,Los Angeles Chargers,2018,6,0,14,38,214,103,2,203,246,1,1343.533293,1547.468668,Loss
+Cleveland Browns,Tampa Bay Buccaneers,2018,7,1,23,26,186,119,1,342,114,4,1324.75729,1469.977009,Loss
+Cleveland Browns,Pittsburgh Steelers,2018,8,1,18,33,163,74,1,253,168,2,1318.944647,1597.090801,Loss
+Cleveland Browns,Kansas City Chiefs,2018,9,0,21,37,286,102,1,360,139,1,1313.100986,1666.732701,Loss
+Cleveland Browns,Atlanta Falcons,2018,10,0,28,16,216,211,1,311,71,2,1305.108199,1590.484078,Win
+Cleveland Browns,Cincinnati Bengals,2018,11,1,35,20,258,84,0,243,129,2,1349.604297,1472.000019,Win
+Cleveland Browns,Houston Texans,2018,12,1,13,29,397,31,4,197,187,0,1394.838493,1536.050772,Loss
+Cleveland Browns,Carolina Panthers,2018,13,0,26,20,232,116,2,297,96,1,1382.726456,1532.880112,Win
+Cleveland Browns,Denver Broncos,2018,14,1,17,16,175,134,2,238,32,2,1407.833363,1483.649404,Win
+Cleveland Browns,Cincinnati Bengals,2018,15,0,26,18,347,146,0,107,102,0,1418.086065,1411.523444,Win
+Cleveland Browns,Baltimore Ravens,2018,16,1,24,26,376,50,3,167,296,1,1435.043924,1623.601588,Loss
+Dallas Cowboys,Carolina Panthers,2018,1,1,8,16,138,94,1,146,147,1,1547.239762,1549.961445,Loss
+Dallas Cowboys,New York Giants,2018,2,0,20,13,160,138,0,220,35,1,1530.02675,1397.115446,Win
+Dallas Cowboys,Seattle Seahawks,2018,3,1,13,24,137,166,3,182,113,0,1539.277921,1507.185811,Loss
+Dallas Cowboys,Detroit Lions,2018,4,0,26,24,231,183,0,286,96,0,1517.107093,1497.410078,Win
+Dallas Cowboys,Houston Texans,2018,5,1,16,19,194,98,2,374,88,2,1525.156957,1382.762074,Loss
+Dallas Cowboys,Jacksonville Jaguars,2018,6,0,40,7,172,206,0,139,65,2,1507.639738,1553.748897,Win
+Dallas Cowboys,Washington Redskins,2018,7,1,17,20,250,73,2,175,130,0,1540.703956,1494.735796,Loss
+Dallas Cowboys,Tennessee Titans,2018,8,0,14,28,225,72,2,215,125,2,1527.712029,1478.122879,Loss
+Dallas Cowboys,Philadelphia Eagles,2018,9,1,27,20,239,171,0,350,71,1,1490.048613,1611.20416,Win
+Dallas Cowboys,Atlanta Falcons,2018,10,1,22,19,191,132,0,274,80,1,1523.891842,1545.987979,Win
+Dallas Cowboys,Washington Redskins,2018,11,0,31,23,258,146,0,251,80,3,1541.870745,1502.588766,Win
+Dallas Cowboys,New Orleans Saints,2018,12,0,13,10,209,99,2,111,65,1,1556.734667,1721.291338,Win
+Dallas Cowboys,Philadelphia Eagles,2018,13,0,29,23,434,142,3,222,34,1,1575.305098,1580.421994,Win
+Dallas Cowboys,Indianapolis Colts,2018,14,1,0,23,180,112,1,192,178,1,1591.015471,1503.562445,Loss
+Dallas Cowboys,Tampa Bay Buccaneers,2018,15,0,27,20,152,80,0,320,63,2,1556.835127,1434.340927,Win
+Dallas Cowboys,New York Giants,2018,16,1,36,35,368,51,1,298,143,2,1566.555237,1416.663238,Win
+Dallas Cowboys,Seattle Seahawks,2018,17,0,24,22,216,164,1,226,73,0,1571.630171,1605.48163,Win
+Dallas Cowboys,Los Angeles Rams,2018,18,1,22,30,258,50,0,186,273,0,1581.494328,1634.386185,Loss
+Denver Broncos,Seattle Seahawks,2018,1,0,27,24,324,146,3,242,64,3,1450.227605,1545.04615,Win
+Denver Broncos,Oakland Raiders,2018,2,0,20,19,217,168,1,281,92,0,1465.484205,1434.455526,Win
+Denver Broncos,Baltimore Ravens,2018,3,1,14,27,173,120,1,265,77,0,1470.335452,1537.05401,Loss
+Denver Broncos,Kansas City Chiefs,2018,4,0,23,27,226,159,1,304,142,0,1454.447902,1629.507735,Loss
+Denver Broncos,New York Jets,2018,5,1,16,34,344,92,1,189,323,2,1443.819608,1422.481489,Loss
+Denver Broncos,Los Angeles Rams,2018,6,0,20,23,297,60,1,174,270,1,1418.557469,1620.278171,Loss
+Denver Broncos,Arizona Cardinals,2018,7,1,45,10,178,131,1,154,69,5,1410.392056,1426.477968,Win
+Denver Broncos,Kansas City Chiefs,2018,8,1,23,30,222,189,2,291,49,1,1456.127686,1660.240076,Loss
+Denver Broncos,Houston Texans,2018,9,0,17,19,273,75,1,192,98,0,1449.635061,1486.345144,Loss
+Denver Broncos,Los Angeles Chargers,2018,10,1,23,22,217,108,0,384,95,2,1437.601627,1610.91737,Win
+Denver Broncos,Pittsburgh Steelers,2018,11,0,24,17,184,124,0,452,75,4,1450.003224,1661.147565,Win
+Denver Broncos,Cincinnati Bengals,2018,12,1,24,10,143,218,1,202,111,3,1481.130498,1426.765823,Win
+Denver Broncos,San Francisco 49ers,2018,13,1,14,20,171,103,0,305,84,1,1509.175275,1352.742659,Loss
+Denver Broncos,Cleveland Browns,2018,14,0,16,17,238,32,2,175,134,2,1483.649404,1407.833363,Loss
+Denver Broncos,Oakland Raiders,2018,15,1,14,27,200,100,2,159,114,0,1473.396702,1329.19875,Loss
+Denver Broncos,Los Angeles Chargers,2018,16,0,9,23,288,82,4,160,116,4,1439.886121,1604.977617,Loss
+Detroit Lions,New York Jets,2018,1,0,17,48,300,39,5,180,169,2,1523.50845,1432.475733,Loss
+Detroit Lions,San Francisco 49ers,2018,2,1,27,30,329,98,1,156,190,0,1470.494958,1459.691508,Loss
+Detroit Lions,New England Patriots,2018,3,0,26,10,255,159,1,120,89,1,1459.058853,1627.73135,Win
+Detroit Lions,Dallas Cowboys,2018,4,1,24,26,286,96,0,231,183,0,1497.410078,1517.107093,Loss
+Detroit Lions,Green Bay Packers,2018,5,0,31,23,170,94,0,423,98,3,1489.360214,1486.515855,Win
+Detroit Lions,Miami Dolphins,2018,6,1,32,21,209,248,0,215,107,0,1506.565047,1486.11509,Win
+Detroit Lions,Seattle Seahawks,2018,7,0,14,28,297,34,3,237,176,0,1535.162136,1550.549352,Loss
+Detroit Lions,Minnesota Vikings,2018,8,1,9,24,143,66,1,155,128,2,1503.527284,1567.974526,Loss
+Detroit Lions,Chicago Bears,2018,9,1,22,34,229,76,3,348,54,0,1486.67047,1528.847991,Loss
+Detroit Lions,Carolina Panthers,2018,10,0,20,19,215,94,0,331,56,1,1469.526781,1584.099132,Win
+Detroit Lions,Chicago Bears,2018,11,0,16,23,222,111,2,226,38,1,1477.623015,1562.367972,Loss
+Detroit Lions,Los Angeles Rams,2018,12,0,16,30,208,102,2,195,149,2,1458.183556,1655.081919,Loss
+Detroit Lions,Arizona Cardinals,2018,13,1,17,3,96,122,1,218,61,1,1441.893402,1383.089912,Win
+Detroit Lions,Buffalo Bills,2018,14,1,13,14,208,105,0,195,117,0,1469.534688,1394.137725,Loss
+Detroit Lions,Minnesota Vikings,2018,15,0,9,27,137,86,0,240,100,0,1462.361957,1559.783869,Loss
+Detroit Lions,Green Bay Packers,2018,16,1,31,0,272,130,0,129,46,1,1436.045141,1477.431028,Win
+Green Bay Packers,Chicago Bears,2018,1,0,24,23,301,69,2,155,139,1,1471.719666,1443.862147,Win
+Green Bay Packers,Minnesota Vikings,2018,2,0,29,29,253,98,0,412,68,1,1476.634054,1612.002483,Win
+Green Bay Packers,Washington Redskins,2018,3,1,17,31,240,100,1,220,166,1,1479.681033,1466.416637,Loss
+Green Bay Packers,Buffalo Bills,2018,4,0,22,0,282,141,2,87,58,3,1457.133693,1503.0752,Win
+Green Bay Packers,Detroit Lions,2018,5,1,23,31,423,98,3,170,94,0,1486.515855,1489.360214,Loss
+Green Bay Packers,San Francisco 49ers,2018,6,0,33,30,405,116,0,227,174,3,1469.311021,1420.854689,Win
+Green Bay Packers,Los Angeles Rams,2018,7,1,27,29,253,106,1,281,135,0,1478.335885,1647.19655,Loss
+Green Bay Packers,New England Patriots,2018,8,1,17,31,250,117,1,310,123,0,1474.234771,1662.179544,Loss
+Green Bay Packers,Miami Dolphins,2018,9,0,31,12,182,195,1,163,131,2,1465.05053,1449.715251,Win
+Green Bay Packers,Seattle Seahawks,2018,10,1,24,27,311,48,0,205,173,1,1487.386265,1544.256863,Loss
+Green Bay Packers,Minnesota Vikings,2018,11,1,17,24,172,82,1,325,91,0,1478.678344,1568.455047,Loss
+Green Bay Packers,Arizona Cardinals,2018,12,0,17,20,227,98,0,133,182,0,1467.374947,1361.197211,Loss
+Green Bay Packers,Atlanta Falcons,2018,13,0,34,20,162,138,0,237,107,2,1445.482246,1492.71076,Win
+Green Bay Packers,Chicago Bears,2018,14,1,17,24,235,88,1,232,100,1,1470.972863,1588.034974,Loss
+Green Bay Packers,New York Jets,2018,15,1,44,38,413,127,1,323,47,0,1461.001471,1348.006563,Win
+Green Bay Packers,Detroit Lions,2018,16,0,0,31,129,46,1,272,130,0,1477.431028,1436.045141,Loss
+Houston Texans,New England Patriots,2018,1,1,20,27,158,167,2,267,122,3,1397.603393,1651.078663,Loss
+Houston Texans,Tennessee Titans,2018,2,1,17,20,289,148,1,183,100,0,1392.595466,1476.353157,Loss
+Houston Texans,New York Giants,2018,3,0,22,27,368,59,2,265,114,0,1384.853607,1387.864275,Loss
+Houston Texans,Indianapolis Colts,2018,4,1,37,34,347,119,1,437,41,2,1363.161438,1419.563792,Win
+Houston Texans,Dallas Cowboys,2018,5,0,19,16,374,88,2,194,98,2,1382.762074,1525.156957,Win
+Houston Texans,Buffalo Bills,2018,6,0,20,13,142,74,3,129,100,3,1400.279293,1480.25383,Win
+Houston Texans,Jacksonville Jaguars,2018,7,1,20,7,131,141,0,189,70,3,1422.118045,1520.684678,Win
+Houston Texans,Miami Dolphins,2018,8,0,42,23,239,188,0,254,116,1,1463.139515,1457.518,Win
+Houston Texans,Denver Broncos,2018,9,1,19,17,192,98,0,273,75,1,1486.345144,1449.635061,Win
+Houston Texans,Washington Redskins,2018,10,1,23,21,181,139,3,154,124,2,1498.378578,1516.694199,Win
+Houston Texans,Tennessee Titans,2018,11,0,34,17,181,281,0,260,105,1,1512.484011,1520.194645,Win
+Houston Texans,Cleveland Browns,2018,12,0,29,13,197,187,0,397,31,4,1536.050772,1394.838493,Win
+Houston Texans,Indianapolis Colts,2018,13,0,21,24,226,89,0,386,50,1,1548.162809,1483.579081,Loss
+Houston Texans,New York Jets,2018,14,1,29,22,239,47,0,228,90,1,1528.179445,1362.271505,Win
+Houston Texans,Philadelphia Eagles,2018,15,1,30,32,309,62,1,462,57,3,1542.444387,1595.769229,Loss
+Houston Texans,Jacksonville Jaguars,2018,16,0,20,3,208,134,1,89,30,2,1535.438338,1446.117336,Win
+Houston Texans,Indianapolis Colts,2018,17,0,7,21,217,105,1,222,200,1,1551.182065,1577.74081,Loss
+Indianapolis Colts,Cincinnati Bengals,2018,1,0,23,34,305,75,2,229,101,2,1406.904376,1474.615256,Loss
+Indianapolis Colts,Washington Redskins,2018,2,1,21,9,177,104,2,269,65,1,1382.279534,1508.582613,Win
+Indianapolis Colts,Philadelphia Eagles,2018,3,1,16,20,141,68,0,227,152,2,1424.44551,1634.163172,Loss
+Indianapolis Colts,Houston Texans,2018,4,0,34,37,437,41,2,347,119,1,1419.563792,1363.161438,Loss
+Indianapolis Colts,New England Patriots,2018,5,1,24,38,355,84,3,341,97,2,1399.963155,1609.165577,Loss
+Indianapolis Colts,New York Jets,2018,6,1,34,42,301,127,4,267,107,2,1391.727206,1447.743628,Loss
+Indianapolis Colts,Buffalo Bills,2018,7,0,37,5,156,220,0,168,135,5,1377.874976,1458.415078,Win
+Indianapolis Colts,Oakland Raiders,2018,8,1,42,28,239,222,0,244,103,1,1414.662785,1389.575139,Win
+Indianapolis Colts,Jacksonville Jaguars,2018,9,0,29,26,285,81,1,324,91,1,1445.398202,1467.298689,Win
+Indianapolis Colts,Tennessee Titans,2018,10,0,38,10,295,102,0,176,91,2,1457.316717,1557.916228,Win
+Indianapolis Colts,Miami Dolphins,2018,11,0,27,24,337,118,3,201,113,1,1495.038301,1427.379516,Win
+Indianapolis Colts,Jacksonville Jaguars,2018,12,1,0,6,224,41,2,132,79,1,1503.349935,1433.553071,Loss
+Indianapolis Colts,Houston Texans,2018,13,1,24,21,386,50,1,226,89,0,1483.579081,1548.162809,Win
+Indianapolis Colts,Dallas Cowboys,2018,14,0,23,0,192,178,1,180,112,1,1503.562445,1591.015471,Win
+Indianapolis Colts,New York Giants,2018,15,0,28,27,353,49,1,309,83,1,1537.742788,1419.976084,Win
+Indianapolis Colts,Tennessee Titans,2018,16,1,33,17,278,158,2,165,93,3,1541.055633,1562.545982,Win
+Indianapolis Colts,Houston Texans,2018,17,1,21,7,222,200,1,217,105,1,1577.74081,1551.182065,Win
+Indianapolis Colts,Kansas City Chiefs,2018,18,1,13,31,179,87,1,253,180,1,1608.340079,1656.058181,Loss
+Jacksonville Jaguars,New York Giants,2018,1,1,20,15,168,137,1,210,114,2,1534.818404,1411.677494,Win
+Jacksonville Jaguars,New England Patriots,2018,2,0,31,20,376,104,2,220,82,1,1549.380453,1656.086591,Win
+Jacksonville Jaguars,Tennessee Titans,2018,3,0,6,9,145,87,1,83,150,0,1577.735693,1484.095016,Loss
+Jacksonville Jaguars,New York Jets,2018,4,0,31,12,377,126,3,144,34,0,1556.411243,1436.667133,Win
+Jacksonville Jaguars,Kansas City Chiefs,2018,5,1,14,30,401,101,5,298,126,2,1570.596887,1640.136029,Loss
+Jacksonville Jaguars,Dallas Cowboys,2018,6,1,7,40,139,65,2,172,206,0,1553.748897,1507.639738,Loss
+Jacksonville Jaguars,Houston Texans,2018,7,0,7,20,189,70,3,131,141,0,1520.684678,1422.118045,Loss
+Jacksonville Jaguars,Philadelphia Eagles,2018,8,0,18,24,265,70,1,262,133,2,1479.663208,1598.83964,Loss
+Jacksonville Jaguars,Indianapolis Colts,2018,9,1,26,29,324,91,1,285,81,1,1467.298689,1445.398202,Loss
+Jacksonville Jaguars,Pittsburgh Steelers,2018,10,0,16,20,64,179,1,297,26,3,1455.380173,1651.430299,Loss
+Jacksonville Jaguars,Buffalo Bills,2018,11,1,21,24,107,226,2,160,167,0,1445.662907,1419.413682,Loss
+Jacksonville Jaguars,Indianapolis Colts,2018,12,0,6,0,132,79,1,224,41,2,1433.553071,1503.349935,Win
+Jacksonville Jaguars,Tennessee Titans,2018,13,1,9,30,195,60,1,162,264,1,1453.323926,1503.161871,Loss
+Jacksonville Jaguars,Washington Redskins,2018,14,0,13,16,20,172,2,136,109,0,1433.318121,1424.662283,Loss
+Jacksonville Jaguars,Miami Dolphins,2018,15,1,17,7,118,126,1,121,62,2,1415.978991,1426.413865,Win
+Jacksonville Jaguars,Houston Texans,2018,16,1,3,20,89,30,2,208,134,1,1446.117336,1535.438338,Loss
+Kansas City Chiefs,Los Angeles Chargers,2018,1,1,38,28,256,106,0,418,123,2,1570.892675,1544.922535,Win
+Kansas City Chiefs,Pittsburgh Steelers,2018,2,1,42,37,322,127,1,442,33,0,1598.035615,1586.995454,Win
+Kansas City Chiefs,San Francisco 49ers,2018,3,0,38,27,307,77,0,228,178,0,1619.233742,1471.127613,Win
+Kansas City Chiefs,Denver Broncos,2018,4,1,27,23,304,142,0,226,159,1,1629.507735,1454.447902,Win
+Kansas City Chiefs,Jacksonville Jaguars,2018,5,0,30,14,298,126,2,401,101,5,1640.136029,1570.596887,Win
+Kansas City Chiefs,New England Patriots,2018,6,1,40,43,352,94,2,327,173,1,1656.98402,1617.401526,Loss
+Kansas City Chiefs,Cincinnati Bengals,2018,7,0,45,10,353,198,1,174,65,1,1644.280221,1511.595104,Win
+Kansas City Chiefs,Denver Broncos,2018,8,0,30,23,291,49,1,222,189,2,1660.240076,1456.127686,Win
+Kansas City Chiefs,Cleveland Browns,2018,9,1,37,21,360,139,1,286,102,1,1666.732701,1313.100986,Win
+Kansas City Chiefs,Arizona Cardinals,2018,10,0,26,14,212,118,0,166,94,2,1674.725487,1392.244489,Win
+Kansas City Chiefs,Los Angeles Rams,2018,11,1,51,54,448,98,5,379,76,2,1680.005165,1642.470014,Loss
+Kansas City Chiefs,Oakland Raiders,2018,12,1,40,33,295,174,1,271,171,3,1667.39326,1329.086742,Win
+Kansas City Chiefs,Baltimore Ravens,2018,13,0,27,24,348,94,1,127,194,1,1673.746816,1585.450084,Win
+Kansas City Chiefs,Los Angeles Chargers,2018,14,0,28,29,234,60,0,288,119,2,1681.332786,1631.330875,Loss
+Kansas City Chiefs,Seattle Seahawks,2018,15,1,31,38,265,154,2,254,210,0,1671.682818,1579.860028,Loss
+Kansas City Chiefs,Oakland Raiders,2018,16,0,35,3,310,99,1,165,127,4,1649.009776,1362.709331,Win
+Kansas City Chiefs,Indianapolis Colts,2018,17,0,31,13,253,180,1,179,87,1,1656.058181,1608.340079,Win
+Kansas City Chiefs,New England Patriots,2018,18,0,31,37,249,41,0,348,176,2,1675.286412,1661.668566,Loss
+Los Angeles Chargers,Kansas City Chiefs,2018,1,0,28,38,418,123,2,256,106,0,1544.922535,1570.892675,Loss
+Los Angeles Chargers,Buffalo Bills,2018,2,1,31,20,240,109,0,209,84,2,1517.779595,1475.794344,Win
+Los Angeles Chargers,Los Angeles Rams,2018,3,1,23,35,215,141,2,350,171,2,1544.552381,1577.617266,Loss
+Los Angeles Chargers,San Francisco 49ers,2018,4,0,29,27,242,126,1,288,76,2,1526.749777,1460.853619,Win
+Los Angeles Chargers,Oakland Raiders,2018,5,0,26,10,333,79,0,248,41,2,1533.387281,1424.015688,Win
+Los Angeles Chargers,Cleveland Browns,2018,6,1,38,14,203,246,1,214,103,2,1547.468668,1343.533293,Win
+Los Angeles Chargers,Tennessee Titans,2018,7,0,20,19,297,47,0,226,164,1,1566.244671,1483.236176,Win
+Los Angeles Chargers,Seattle Seahawks,2018,8,1,25,17,215,160,0,202,154,1,1571.357968,1582.184205,Win
+Los Angeles Chargers,Oakland Raiders,2018,9,1,20,6,222,113,1,203,114,1,1599.003695,1333.753137,Win
+Los Angeles Chargers,Denver Broncos,2018,10,0,22,23,384,95,2,217,108,0,1610.91737,1437.601627,Loss
+Los Angeles Chargers,Arizona Cardinals,2018,11,0,45,10,236,178,1,87,62,1,1598.515773,1371.108347,Win
+Los Angeles Chargers,Pittsburgh Steelers,2018,12,1,33,30,286,85,0,271,65,1,1608.426908,1630.020292,Win
+Los Angeles Chargers,Cincinnati Bengals,2018,13,0,26,21,203,85,0,151,144,0,1626.381905,1398.721046,Win
+Los Angeles Chargers,Kansas City Chiefs,2018,14,1,29,28,288,119,2,234,60,0,1631.330875,1681.332786,Win
+Los Angeles Chargers,Baltimore Ravens,2018,15,0,10,22,147,51,3,202,159,1,1640.980843,1587.598361,Loss
+Los Angeles Chargers,Denver Broncos,2018,16,1,23,9,160,116,4,288,82,4,1604.977617,1439.886121,Win
+Los Angeles Chargers,Baltimore Ravens,2018,17,1,23,17,154,89,1,139,90,3,1623.617446,1627.31591,Win
+Los Angeles Chargers,New England Patriots,2018,18,1,28,41,316,19,2,343,155,0,1647.624483,1640.17196,Loss
+Los Angeles Rams,Oakland Raiders,2018,1,1,33,13,225,140,0,300,95,3,1529.948656,1464.895341,Win
+Los Angeles Rams,Arizona Cardinals,2018,2,0,34,0,342,90,1,83,54,1,1560.388471,1445.574198,Win
+Los Angeles Rams,Los Angeles Chargers,2018,3,0,35,23,350,171,2,215,141,2,1577.617266,1544.552381,Win
+Los Angeles Rams,Minnesota Vikings,2018,4,0,38,31,456,100,0,392,54,1,1595.419871,1554.901861,Win
+Los Angeles Rams,Seattle Seahawks,2018,5,1,33,31,313,155,2,183,190,0,1609.414936,1541.053425,Win
+Los Angeles Rams,Denver Broncos,2018,6,1,23,20,174,270,1,297,60,1,1620.278171,1418.557469,Win
+Los Angeles Rams,San Francisco 49ers,2018,7,1,39,10,193,146,0,121,107,4,1628.443583,1411.829826,Win
+Los Angeles Rams,Green Bay Packers,2018,8,0,29,27,281,135,0,253,106,1,1647.19655,1478.335885,Win
+Los Angeles Rams,New Orleans Saints,2018,9,1,35,45,391,92,1,346,141,1,1651.297664,1649.581667,Loss
+Los Angeles Rams,Seattle Seahawks,2018,10,0,36,31,307,149,0,141,273,1,1632.188398,1554.538479,Win
+Los Angeles Rams,Kansas City Chiefs,2018,11,0,54,51,379,76,2,448,98,5,1642.470014,1680.005165,Win
+Los Angeles Rams,Detroit Lions,2018,12,1,30,16,195,149,2,208,102,2,1655.081919,1458.183556,Win
+Los Angeles Rams,Chicago Bears,2018,13,1,6,15,162,52,4,100,194,3,1671.372073,1561.511626,Loss
+Los Angeles Rams,Philadelphia Eagles,2018,14,0,23,30,325,82,3,270,111,1,1644.848725,1564.711621,Loss
+Los Angeles Rams,Arizona Cardinals,2018,15,1,31,9,192,269,1,159,104,0,1613.791118,1339.249397,Win
+Los Angeles Rams,San Francisco 49ers,2018,16,0,48,32,222,155,0,264,127,4,1626.981322,1388.8526,Win
+Los Angeles Rams,Dallas Cowboys,2018,17,0,30,22,186,273,0,258,50,0,1634.386185,1581.494328,Win
+Los Angeles Rams,New Orleans Saints,2018,18,1,26,23,301,77,1,242,48,1,1648.424105,1682.450194,Win
+Miami Dolphins,Tennessee Titans,2018,1,0,27,20,222,120,2,220,116,3,1449.87053,1495.841219,Win
+Miami Dolphins,New York Jets,2018,2,1,20,12,122,135,2,320,42,3,1469.358591,1485.489225,Win
+Miami Dolphins,Oakland Raiders,2018,3,0,28,20,332,41,0,325,109,2,1497.404638,1429.604278,Win
+Miami Dolphins,New England Patriots,2018,4,1,7,38,116,56,2,274,175,2,1510.570146,1589.380125,Loss
+Miami Dolphins,Cincinnati Bengals,2018,5,1,17,27,169,128,3,229,103,1,1490.784694,1516.990589,Loss
+Miami Dolphins,Chicago Bears,2018,6,0,31,28,380,161,3,303,164,3,1473.669334,1507.48887,Win
+Miami Dolphins,Detroit Lions,2018,7,0,21,32,215,107,0,209,248,0,1486.11509,1506.565047,Loss
+Miami Dolphins,Houston Texans,2018,8,1,23,42,254,116,1,239,188,0,1457.518,1463.139515,Loss
+Miami Dolphins,New York Jets,2018,9,0,13,6,104,64,0,202,80,4,1434.312371,1417.331603,Win
+Miami Dolphins,Green Bay Packers,2018,10,1,12,31,163,131,2,182,195,1,1449.715251,1465.05053,Loss
+Miami Dolphins,Indianapolis Colts,2018,11,1,24,27,201,113,1,337,118,3,1427.379516,1495.038301,Loss
+Miami Dolphins,Buffalo Bills,2018,12,0,21,17,115,60,1,217,198,3,1419.067882,1431.523517,Win
+Miami Dolphins,New England Patriots,2018,13,0,34,33,223,189,0,344,77,0,1432.427539,1657.427396,Win
+Miami Dolphins,Minnesota Vikings,2018,14,1,17,41,37,156,0,198,220,1,1443.120732,1543.077002,Loss
+Miami Dolphins,Jacksonville Jaguars,2018,15,0,7,17,121,62,2,118,126,1,1426.413865,1415.978991,Loss
+Miami Dolphins,Buffalo Bills,2018,16,1,17,42,126,99,4,215,166,1,1396.27552,1394.128145,Loss
+Minnesota Vikings,San Francisco 49ers,2018,1,0,24,16,227,116,1,237,90,4,1602.219546,1469.474445,Win
+Minnesota Vikings,Green Bay Packers,2018,2,1,29,29,412,68,1,253,98,0,1612.002483,1476.634054,Win
+Minnesota Vikings,Buffalo Bills,2018,3,0,6,27,278,14,3,164,128,0,1608.955504,1449.021558,Loss
+Minnesota Vikings,Los Angeles Rams,2018,4,1,31,38,392,54,1,456,100,0,1554.901861,1595.419871,Loss
+Minnesota Vikings,Philadelphia Eagles,2018,5,1,23,21,298,77,1,283,81,2,1540.906796,1621.945412,Win
+Minnesota Vikings,Arizona Cardinals,2018,6,0,27,17,216,195,2,208,60,2,1557.348121,1437.845577,Win
+Minnesota Vikings,New York Jets,2018,7,1,37,17,228,88,0,192,71,4,1568.71573,1461.595858,Win
+Minnesota Vikings,New Orleans Saints,2018,8,0,20,30,338,85,2,164,106,1,1594.985096,1622.571097,Loss
+Minnesota Vikings,Detroit Lions,2018,9,0,24,9,155,128,2,143,66,1,1567.974526,1503.527284,Win
+Minnesota Vikings,Chicago Bears,2018,10,1,20,25,246,22,3,160,148,3,1584.831339,1545.99168,Loss
+Minnesota Vikings,Green Bay Packers,2018,11,0,24,17,325,91,0,172,82,1,1568.455047,1478.678344,Win
+Minnesota Vikings,New England Patriots,2018,12,1,10,24,183,95,2,311,160,1,1579.758444,1640.712599,Loss
+Minnesota Vikings,Seattle Seahawks,2018,13,1,7,21,199,77,1,60,214,1,1563.043647,1581.183197,Loss
+Minnesota Vikings,Miami Dolphins,2018,14,0,41,17,198,220,1,37,156,0,1543.077002,1443.120732,Win
+Minnesota Vikings,Detroit Lions,2018,15,1,27,9,240,100,0,137,86,0,1559.783869,1462.361957,Win
+Minnesota Vikings,Chicago Bears,2018,16,0,10,24,101,63,0,163,169,0,1586.100685,1608.71211,Loss
+New England Patriots,Houston Texans,2018,1,0,27,20,267,122,3,158,167,2,1651.078663,1397.603393,Win
+New England Patriots,Jacksonville Jaguars,2018,2,1,20,31,220,82,1,376,104,2,1656.086591,1549.380453,Loss
+New England Patriots,Detroit Lions,2018,3,1,10,26,120,89,1,255,159,1,1627.73135,1459.058853,Loss
+New England Patriots,Miami Dolphins,2018,4,0,38,7,274,175,2,116,56,2,1589.380125,1510.570146,Win
+New England Patriots,Indianapolis Colts,2018,5,0,38,24,341,97,2,355,84,3,1609.165577,1399.963155,Win
+New England Patriots,Kansas City Chiefs,2018,6,0,43,40,327,173,1,352,94,2,1617.401526,1656.98402,Win
+New England Patriots,Chicago Bears,2018,7,1,38,31,273,108,3,319,134,2,1630.105325,1495.043114,Win
+New England Patriots,Buffalo Bills,2018,8,1,25,6,311,76,0,287,46,2,1646.248272,1421.627269,Win
+New England Patriots,Green Bay Packers,2018,9,0,31,17,310,123,0,250,117,1,1662.179544,1474.234771,Win
+New England Patriots,Tennessee Titans,2018,10,1,10,34,244,40,0,235,150,0,1671.363785,1515.786295,Loss
+New England Patriots,New York Jets,2018,11,1,27,13,283,215,0,264,74,1,1629.233852,1356.258104,Win
+New England Patriots,Minnesota Vikings,2018,12,0,24,10,311,160,1,183,95,2,1640.712599,1579.758444,Win
+New England Patriots,Miami Dolphins,2018,13,1,33,34,344,77,0,223,189,0,1657.427396,1432.427539,Loss
+New England Patriots,Pittsburgh Steelers,2018,14,1,10,17,272,96,1,218,158,2,1646.734204,1587.848362,Loss
+New England Patriots,Buffalo Bills,2018,15,0,24,12,117,273,3,217,72,3,1626.362307,1401.310456,Win
+New England Patriots,New York Jets,2018,16,0,38,3,244,131,0,135,104,3,1633.544618,1331.577006,Win
+New England Patriots,Los Angeles Chargers,2018,17,0,41,28,343,155,0,316,19,2,1640.17196,1647.624483,Win
+New England Patriots,Kansas City Chiefs,2018,18,1,37,31,348,176,2,249,41,0,1661.668566,1675.286412,Win
+New Orleans Saints,Tampa Bay Buccaneers,2018,1,0,40,48,432,43,2,417,112,0,1584.49034,1469.481636,Loss
+New Orleans Saints,Cleveland Browns,2018,2,0,21,18,213,62,2,234,93,1,1549.163577,1310.717644,Win
+New Orleans Saints,Atlanta Falcons,2018,3,1,43,37,391,143,0,359,48,0,1552.780698,1603.025766,Win
+New Orleans Saints,New York Giants,2018,4,1,33,18,219,170,0,234,65,2,1579.887643,1409.556444,Win
+New Orleans Saints,Washington Redskins,2018,5,0,43,19,349,98,1,244,39,2,1598.562235,1488.963977,Win
+New Orleans Saints,Baltimore Ravens,2018,6,1,24,23,205,134,1,274,77,0,1614.543611,1596.222105,Win
+New Orleans Saints,Minnesota Vikings,2018,7,1,30,20,164,106,1,338,85,2,1622.571097,1594.985096,Win
+New Orleans Saints,Los Angeles Rams,2018,8,0,45,35,346,141,1,391,92,1,1649.581667,1651.297664,Win
+New Orleans Saints,Cincinnati Bengals,2018,9,1,51,14,265,244,0,174,110,2,1668.690932,1505.787004,Win
+New Orleans Saints,Philadelphia Eagles,2018,10,0,48,7,373,173,0,138,58,3,1693.955097,1577.360931,Win
+New Orleans Saints,Atlanta Falcons,2018,11,0,31,17,162,150,1,340,26,4,1711.917364,1528.009076,Win
+New Orleans Saints,Dallas Cowboys,2018,12,1,10,13,111,65,1,209,99,2,1721.291338,1556.734667,Loss
+New Orleans Saints,Tampa Bay Buccaneers,2018,13,1,28,14,198,100,2,174,105,1,1702.720906,1457.151889,Win
+New Orleans Saints,Carolina Panthers,2018,14,1,12,9,191,155,2,149,98,2,1715.797622,1507.773206,Win
+New Orleans Saints,Pittsburgh Steelers,2018,15,0,31,28,313,57,1,364,65,2,1723.739392,1608.220259,Win
+New Orleans Saints,Carolina Panthers,2018,16,0,14,33,110,184,1,263,111,0,1730.435133,1465.238886,Loss
+New Orleans Saints,Philadelphia Eagles,2018,17,0,20,14,283,137,1,201,49,2,1669.105861,1633.114673,Win
+New Orleans Saints,Los Angeles Rams,2018,18,0,23,26,242,48,1,301,77,1,1682.450194,1648.424105,Loss
+New York Giants,Jacksonville Jaguars,2018,1,0,15,20,210,114,2,168,137,1,1411.677494,1534.818404,Loss
+New York Giants,Dallas Cowboys,2018,2,1,13,20,220,35,1,160,138,0,1397.115446,1530.02675,Loss
+New York Giants,Houston Texans,2018,3,1,27,22,265,114,0,368,59,2,1387.864275,1384.853607,Win
+New York Giants,New Orleans Saints,2018,4,0,18,33,234,65,2,219,170,0,1409.556444,1579.887643,Loss
+New York Giants,Carolina Panthers,2018,5,1,31,33,382,50,3,232,118,2,1390.881853,1568.980237,Loss
+New York Giants,Philadelphia Eagles,2018,6,0,13,34,254,147,1,271,108,0,1386.965954,1605.504087,Loss
+New York Giants,Atlanta Falcons,2018,7,1,20,23,372,61,0,356,67,1,1370.069752,1549.722343,Loss
+New York Giants,Washington Redskins,2018,8,0,13,20,266,37,2,178,182,1,1365.16692,1507.727722,Loss
+New York Giants,San Francisco 49ers,2018,9,1,27,23,180,97,0,250,124,2,1349.491631,1406.661293,Win
+New York Giants,Tampa Bay Buccaneers,2018,10,0,38,35,196,163,0,359,151,4,1372.289033,1424.397309,Win
+New York Giants,Philadelphia Eagles,2018,11,1,22,25,276,126,1,214,127,0,1385.560056,1559.398664,Loss
+New York Giants,Chicago Bears,2018,12,0,30,27,197,141,1,258,118,3,1380.512033,1581.807431,Win
+New York Giants,Washington Redskins,2018,13,1,40,16,175,227,1,204,84,3,1400.807839,1471.749538,Win
+New York Giants,Tennessee Titans,2018,14,0,0,17,213,47,2,86,215,0,1447.895094,1523.167676,Loss
+New York Giants,Indianapolis Colts,2018,15,1,27,28,309,83,1,353,49,1,1419.976084,1537.742788,Loss
+New York Giants,Dallas Cowboys,2018,16,0,35,36,298,143,2,368,51,1,1416.663238,1566.555237,Loss
+New York Jets,Detroit Lions,2018,1,1,48,17,180,169,2,300,39,5,1432.475733,1523.50845,Win
+New York Jets,Miami Dolphins,2018,2,0,12,20,320,42,3,122,135,2,1485.489225,1469.358591,Loss
+New York Jets,Cleveland Browns,2018,3,1,17,21,161,107,3,190,133,0,1457.443178,1307.100523,Loss
+New York Jets,Jacksonville Jaguars,2018,4,1,12,31,144,34,0,377,126,3,1436.667133,1556.411243,Loss
+New York Jets,Denver Broncos,2018,5,0,34,16,189,323,2,344,92,1,1422.481489,1443.819608,Win
+New York Jets,Indianapolis Colts,2018,6,0,42,34,267,107,2,301,127,4,1447.743628,1391.727206,Win
+New York Jets,Minnesota Vikings,2018,7,0,17,37,192,71,4,228,88,0,1461.595858,1568.71573,Loss
+New York Jets,Chicago Bears,2018,8,1,10,24,150,57,0,216,179,0,1435.326492,1478.900167,Loss
+New York Jets,Miami Dolphins,2018,9,1,6,13,202,80,4,104,64,0,1417.331603,1434.312371,Loss
+New York Jets,Buffalo Bills,2018,10,0,10,41,116,83,2,239,212,0,1401.928724,1373.743062,Loss
+New York Jets,New England Patriots,2018,11,0,13,27,264,74,1,283,215,0,1356.258104,1629.233852,Loss
+New York Jets,Tennessee Titans,2018,12,1,22,26,124,156,1,273,130,1,1344.779358,1496.627883,Loss
+New York Jets,Buffalo Bills,2018,13,1,27,23,170,78,2,192,176,3,1338.24537,1418.16386,Win
+New York Jets,Houston Texans,2018,14,0,22,29,228,90,1,239,47,0,1362.271505,1528.179445,Loss
+New York Jets,Green Bay Packers,2018,15,0,38,44,323,47,0,413,127,1,1348.006563,1461.001471,Loss
+New York Jets,New England Patriots,2018,16,1,3,38,135,104,3,244,131,0,1331.577006,1633.544618,Loss
+Oakland Raiders,Los Angeles Rams,2018,1,0,13,33,300,95,3,225,140,0,1464.895341,1529.948656,Loss
+Oakland Raiders,Denver Broncos,2018,2,1,19,20,281,92,0,217,168,1,1434.455526,1465.484205,Loss
+Oakland Raiders,Miami Dolphins,2018,3,1,20,28,325,109,2,332,41,0,1429.604278,1497.404638,Loss
+Oakland Raiders,Cleveland Browns,2018,4,0,45,42,426,139,2,279,208,4,1416.438771,1327.876568,Win
+Oakland Raiders,Los Angeles Chargers,2018,5,1,10,26,248,41,2,333,79,0,1424.015688,1533.387281,Loss
+Oakland Raiders,Seattle Seahawks,2018,6,0,3,27,106,79,2,214,155,1,1409.934301,1530.19019,Loss
+Oakland Raiders,Indianapolis Colts,2018,7,0,28,42,244,103,1,239,222,0,1389.575139,1414.662785,Loss
+Oakland Raiders,San Francisco 49ers,2018,8,1,3,34,140,102,0,262,143,0,1358.839722,1381.574708,Loss
+Oakland Raiders,Los Angeles Chargers,2018,9,0,6,20,203,114,1,222,113,1,1333.753137,1599.003695,Loss
+Oakland Raiders,Arizona Cardinals,2018,10,1,23,21,173,152,0,128,154,2,1321.839461,1386.964811,Win
+Oakland Raiders,Baltimore Ravens,2018,11,1,17,34,182,67,1,174,242,2,1337.695926,1550.916558,Loss
+Oakland Raiders,Kansas City Chiefs,2018,12,0,33,40,271,171,3,295,174,1,1329.086742,1667.39326,Loss
+Oakland Raiders,Pittsburgh Steelers,2018,13,0,24,21,299,55,1,300,40,1,1322.733186,1612.065295,Win
+Oakland Raiders,Cincinnati Bengals,2018,14,1,16,30,229,68,2,123,171,1,1346.950119,1393.772075,Loss
+Oakland Raiders,Denver Broncos,2018,15,0,27,14,159,114,0,200,100,2,1329.19875,1473.396702,Win
+Oakland Raiders,Kansas City Chiefs,2018,16,1,3,35,165,127,4,310,99,1,1362.709331,1649.009776,Loss
+Philadelphia Eagles,Atlanta Falcons,2018,1,0,18,12,119,113,2,225,74,1,1646.78633,1600.64044,Win
+Philadelphia Eagles,Tampa Bay Buccaneers,2018,2,1,21,27,321,91,2,393,43,2,1659.578148,1504.808399,Loss
+Philadelphia Eagles,Indianapolis Colts,2018,3,0,20,16,227,152,2,141,68,0,1634.163172,1424.44551,Win
+Philadelphia Eagles,Tennessee Titans,2018,4,1,23,26,315,117,1,327,70,1,1639.04489,1505.419466,Loss
+Philadelphia Eagles,Minnesota Vikings,2018,5,0,21,23,283,81,2,298,77,1,1621.945412,1540.906796,Loss
+Philadelphia Eagles,New York Giants,2018,6,1,34,13,271,108,0,254,147,1,1605.504087,1386.965954,Win
+Philadelphia Eagles,Carolina Panthers,2018,7,0,17,21,284,58,1,250,121,0,1622.400289,1551.142941,Loss
+Philadelphia Eagles,Jacksonville Jaguars,2018,8,1,24,18,262,133,2,265,70,1,1598.83964,1479.663208,Win
+Philadelphia Eagles,Dallas Cowboys,2018,9,0,20,27,350,71,1,239,171,0,1611.20416,1490.048613,Loss
+Philadelphia Eagles,New Orleans Saints,2018,10,1,7,48,138,58,3,373,173,0,1577.360931,1693.955097,Loss
+Philadelphia Eagles,New York Giants,2018,11,0,25,22,214,127,0,276,126,1,1559.398664,1385.560056,Win
+Philadelphia Eagles,Washington Redskins,2018,12,0,28,13,306,130,1,131,104,1,1564.446687,1487.724845,Win
+Philadelphia Eagles,Dallas Cowboys,2018,13,1,23,29,222,34,1,434,142,3,1580.421994,1575.305098,Loss
+Philadelphia Eagles,Los Angeles Rams,2018,14,1,30,23,270,111,1,325,82,3,1564.711621,1644.848725,Win
+Philadelphia Eagles,Houston Texans,2018,15,0,32,30,462,57,3,309,62,1,1595.769229,1542.444387,Win
+Philadelphia Eagles,Washington Redskins,2018,16,1,24,0,231,129,1,68,21,1,1602.775278,1430.542116,Win
+Philadelphia Eagles,Chicago Bears,2018,17,1,16,15,258,42,2,291,65,0,1624.284707,1639.676863,Win
+Philadelphia Eagles,New Orleans Saints,2018,18,1,14,20,201,49,2,283,137,1,1633.114673,1669.105861,Loss
+Pittsburgh Steelers,Cleveland Browns,2018,1,1,21,21,313,159,6,150,177,1,1595.802933,1301.910164,Win
+Pittsburgh Steelers,Kansas City Chiefs,2018,2,0,37,42,442,33,0,322,127,1,1586.995454,1598.035615,Loss
+Pittsburgh Steelers,Tampa Bay Buccaneers,2018,3,1,30,27,335,78,1,392,63,4,1565.797327,1530.223375,Win
+Pittsburgh Steelers,Baltimore Ravens,2018,4,0,14,26,265,19,2,355,96,1,1581.035409,1552.94156,Loss
+Pittsburgh Steelers,Atlanta Falcons,2018,5,0,41,17,250,131,1,262,62,1,1547.2432,1565.82372,Win
+Pittsburgh Steelers,Cincinnati Bengals,2018,6,1,28,21,369,112,0,213,62,0,1574.579955,1534.105949,Win
+Pittsburgh Steelers,Cleveland Browns,2018,7,0,33,18,253,168,2,163,74,1,1597.090801,1318.944647,Win
+Pittsburgh Steelers,Baltimore Ravens,2018,8,1,23,16,282,113,0,204,61,0,1602.934462,1565.090318,Win
+Pittsburgh Steelers,Carolina Panthers,2018,9,0,52,21,319,138,0,147,95,2,1625.631042,1609.898389,Win
+Pittsburgh Steelers,Jacksonville Jaguars,2018,10,1,20,16,297,26,3,64,179,1,1651.430299,1455.380173,Win
+Pittsburgh Steelers,Denver Broncos,2018,11,1,17,24,452,75,4,184,124,0,1661.147565,1450.003224,Loss
+Pittsburgh Steelers,Los Angeles Chargers,2018,12,0,30,33,271,65,1,286,85,0,1630.020292,1608.426908,Loss
+Pittsburgh Steelers,Oakland Raiders,2018,13,1,21,24,300,40,1,299,55,1,1612.065295,1322.733186,Loss
+Pittsburgh Steelers,New England Patriots,2018,14,0,17,10,218,158,2,272,96,1,1587.848362,1646.734204,Win
+Pittsburgh Steelers,New Orleans Saints,2018,15,1,28,31,364,65,2,313,57,1,1608.220259,1723.739392,Loss
+Pittsburgh Steelers,Cincinnati Bengals,2018,16,0,16,13,278,65,1,71,125,0,1601.524518,1394.565585,Win
+San Francisco 49ers,Minnesota Vikings,2018,1,1,16,24,237,90,4,227,116,1,1469.474445,1602.219546,Loss
+San Francisco 49ers,Detroit Lions,2018,2,0,30,27,156,190,0,329,98,1,1507.185811,1539.277921,Win
+San Francisco 49ers,Kansas City Chiefs,2018,3,1,27,38,228,178,0,307,77,0,1471.127613,1619.233742,Loss
+San Francisco 49ers,Los Angeles Chargers,2018,4,1,27,29,288,76,2,242,126,1,1460.853619,1526.749777,Loss
+San Francisco 49ers,Arizona Cardinals,2018,5,0,18,28,300,147,5,164,56,0,1541.053425,1609.414936,Loss
+San Francisco 49ers,Green Bay Packers,2018,6,1,30,33,227,174,3,405,116,0,1420.854689,1469.311021,Loss
+San Francisco 49ers,Los Angeles Rams,2018,7,0,10,39,121,107,4,193,146,0,1582.184205,1571.357968,Loss
+San Francisco 49ers,Arizona Cardinals,2018,8,1,15,18,160,107,0,233,88,2,1393.076859,1380.742338,Loss
+San Francisco 49ers,Oakland Raiders,2018,9,0,34,3,262,143,0,140,102,0,1544.256863,1487.386265,Win
+San Francisco 49ers,New York Giants,2018,10,0,23,27,250,124,2,180,97,0,1570.988473,1362.937384,Loss
+San Francisco 49ers,Tampa Bay Buccaneers,2018,11,1,9,27,194,148,2,304,108,0,1383.863891,1411.126285,Loss
+San Francisco 49ers,Seattle Seahawks,2018,12,1,16,43,386,66,3,163,168,0,1362.937384,1570.988473,Loss
+San Francisco 49ers,Denver Broncos,2018,13,0,20,14,305,84,1,171,103,0,1581.183197,1563.043647,Win
+San Francisco 49ers,Seattle Seahawks,2018,14,0,26,23,257,94,1,217,168,0,1579.860028,1671.682818,Win
+San Francisco 49ers,Chicago Bears,2018,15,0,9,14,232,47,1,235,90,2,1602.53307,1326.059193,Loss
+San Francisco 49ers,Los Angeles Rams,2018,16,1,32,48,264,127,4,222,155,0,1388.8526,1626.981322,Loss
+Seattle Seahawks,Denver Broncos,2018,1,1,24,27,242,64,3,324,146,3,1545.04615,1450.227605,Loss
+Seattle Seahawks,Chicago Bears,2018,2,1,17,24,202,74,2,185,86,2,1529.789551,1438.94776,Loss
+Seattle Seahawks,Dallas Cowboys,2018,3,0,24,13,182,113,0,137,166,3,1459.691508,1470.494958,Win
+Seattle Seahawks,Arizona Cardinals,2018,4,1,20,17,160,171,0,171,92,1,1529.356639,1416.180936,Win
+Seattle Seahawks,Los Angeles Rams,2018,5,0,31,33,183,190,0,313,155,2,1454.216115,1404.484151,Loss
+Seattle Seahawks,Oakland Raiders,2018,6,1,27,3,214,155,1,106,79,2,1530.19019,1409.934301,Win
+Seattle Seahawks,Detroit Lions,2018,7,1,28,14,237,176,0,297,34,3,1550.549352,1535.162136,Win
+Seattle Seahawks,Los Angeles Chargers,2018,8,0,17,25,202,154,1,215,160,0,1411.829826,1628.443583,Loss
+Seattle Seahawks,Los Angeles Rams,2018,9,1,31,36,141,273,1,307,149,0,1554.538479,1632.188398,Loss
+Seattle Seahawks,Green Bay Packers,2018,10,0,27,24,205,173,1,311,48,0,1381.574708,1358.839722,Win
+Seattle Seahawks,Carolina Panthers,2018,11,1,30,27,322,75,0,256,220,1,1552.964784,1576.002898,Win
+Seattle Seahawks,San Francisco 49ers,2018,12,0,43,16,163,168,0,386,66,3,1406.661293,1349.491631,Win
+Seattle Seahawks,Minnesota Vikings,2018,13,0,21,7,60,214,1,199,77,1,1352.742659,1509.175275,Win
+Seattle Seahawks,San Francisco 49ers,2018,14,1,23,26,217,168,0,257,94,1,1601.149842,1378.26853,Loss
+Seattle Seahawks,Kansas City Chiefs,2018,15,0,38,31,254,210,0,265,154,2,1378.26853,1601.149842,Win
+Seattle Seahawks,Arizona Cardinals,2018,16,0,27,24,109,182,1,113,85,2,1399.558345,1598.006365,Win
+Seattle Seahawks,Dallas Cowboys,2018,17,1,22,24,226,73,0,216,164,1,1605.48163,1571.630171,Loss
+Tampa Bay Buccaneers,New Orleans Saints,2018,1,1,48,40,417,112,0,432,43,2,1469.481636,1584.49034,Win
+Tampa Bay Buccaneers,Philadelphia Eagles,2018,2,0,27,21,393,43,2,321,91,2,1504.808399,1659.578148,Win
+Tampa Bay Buccaneers,Pittsburgh Steelers,2018,3,0,27,30,392,63,4,335,78,1,1530.223375,1565.797327,Loss
+Tampa Bay Buccaneers,Chicago Bears,2018,4,1,10,48,251,60,3,344,139,0,1514.985292,1473.715966,Loss
+Tampa Bay Buccaneers,Atlanta Falcons,2018,5,1,29,34,389,121,2,347,70,0,1481.212388,1538.486964,Loss
+Tampa Bay Buccaneers,Cleveland Browns,2018,6,0,26,23,342,114,4,186,119,1,1469.977009,1324.75729,Win
+Tampa Bay Buccaneers,Cincinnati Bengals,2018,7,1,34,37,450,126,4,264,138,0,1475.789653,1495.635248,Loss
+Tampa Bay Buccaneers,Carolina Panthers,2018,8,1,28,42,219,82,2,228,179,0,1465.637897,1597.807892,Loss
+Tampa Bay Buccaneers,Washington Redskins,2018,9,0,3,16,398,103,4,170,116,0,1453.547399,1487.544108,Loss
+Tampa Bay Buccaneers,New York Giants,2018,10,1,35,38,359,151,4,196,163,0,1424.397309,1372.289033,Loss
+Tampa Bay Buccaneers,San Francisco 49ers,2018,11,0,27,9,304,108,0,194,148,2,1411.126285,1383.863891,Win
+Tampa Bay Buccaneers,Carolina Panthers,2018,12,0,24,17,220,95,1,276,168,4,1432.052793,1557.979209,Win
+Tampa Bay Buccaneers,New Orleans Saints,2018,13,0,14,28,174,105,1,198,100,2,1457.151889,1702.720906,Loss
+Tampa Bay Buccaneers,Baltimore Ravens,2018,14,1,12,20,156,85,1,128,242,2,1444.075174,1577.864115,Loss
+Tampa Bay Buccaneers,Dallas Cowboys,2018,15,1,20,27,320,63,2,152,80,0,1434.340927,1556.835127,Loss
+Tampa Bay Buccaneers,Atlanta Falcons,2018,16,0,32,34,341,92,1,380,109,1,1424.620817,1518.011923,Loss
+Tennessee Titans,Miami Dolphins,2018,1,1,20,27,220,116,3,222,120,2,1495.841219,1449.87053,Loss
+Tennessee Titans,Houston Texans,2018,2,0,20,17,183,100,0,289,148,1,1476.353157,1392.595466,Win
+Tennessee Titans,Jacksonville Jaguars,2018,3,1,9,6,83,150,0,145,87,1,1484.095016,1577.735693,Win
+Tennessee Titans,Philadelphia Eagles,2018,4,0,26,23,327,70,1,315,117,1,1505.419466,1639.04489,Win
+Tennessee Titans,Buffalo Bills,2018,5,1,12,13,121,100,3,79,144,1,1522.518945,1473.693039,Loss
+Tennessee Titans,Baltimore Ravens,2018,6,0,0,21,51,55,0,238,123,1,1515.958153,1563.500128,Loss
+Tennessee Titans,Los Angeles Chargers,2018,7,1,19,20,226,164,1,297,47,0,1483.236176,1566.244671,Loss
+Tennessee Titans,Dallas Cowboys,2018,8,1,28,14,215,125,2,225,72,2,1478.122879,1527.712029,Win
+Tennessee Titans,New England Patriots,2018,9,0,34,10,235,150,0,244,40,0,1515.786295,1671.363785,Win
+Tennessee Titans,Indianapolis Colts,2018,10,1,10,38,176,91,2,295,102,0,1557.916228,1457.316717,Loss
+Tennessee Titans,Houston Texans,2018,11,1,17,34,260,105,1,181,281,0,1520.194645,1512.484011,Loss
+Tennessee Titans,New York Jets,2018,12,0,26,22,273,130,1,124,156,1,1496.627883,1344.779358,Win
+Tennessee Titans,Jacksonville Jaguars,2018,13,0,30,9,162,264,1,195,60,1,1503.161871,1453.323926,Win
+Tennessee Titans,New York Giants,2018,14,1,17,0,86,215,0,213,47,2,1523.167676,1447.895094,Win
+Tennessee Titans,Washington Redskins,2018,15,0,25,16,192,99,0,131,161,2,1551.086686,1442.001412,Win
+Tennessee Titans,Indianapolis Colts,2018,16,0,17,33,165,93,3,278,158,2,1562.545982,1541.055633,Loss
+Washington Redskins,Arizona Cardinals,2018,1,1,24,6,247,182,1,145,68,2,1471.502394,1482.654417,Win
+Washington Redskins,Indianapolis Colts,2018,2,0,9,21,269,65,1,177,104,2,1508.582613,1382.279534,Loss
+Washington Redskins,Green Bay Packers,2018,3,0,31,17,220,166,1,240,100,1,1466.416637,1479.681033,Win
+Washington Redskins,New Orleans Saints,2018,4,1,19,43,244,39,2,349,98,1,1488.963977,1598.562235,Loss
+Washington Redskins,Carolina Panthers,2018,5,0,23,17,156,132,0,269,81,3,1472.982601,1572.896136,Win
+Washington Redskins,Dallas Cowboys,2018,6,0,20,17,175,130,0,250,73,2,1494.735796,1540.703956,Win
+Washington Redskins,New York Giants,2018,7,1,20,13,178,182,1,266,37,2,1507.727722,1365.16692,Win
+Washington Redskins,Atlanta Falcons,2018,8,0,14,38,287,79,1,337,154,1,1523.403011,1554.625175,Loss
+Washington Redskins,Tampa Bay Buccaneers,2018,9,1,16,3,170,116,0,398,103,4,1487.544108,1453.547399,Win
+Washington Redskins,Houston Texans,2018,10,0,21,23,154,124,2,181,139,3,1516.694199,1498.378578,Loss
+Washington Redskins,Dallas Cowboys,2018,11,1,23,31,251,80,3,258,146,0,1502.588766,1541.870745,Loss
+Washington Redskins,Philadelphia Eagles,2018,12,1,13,28,131,104,1,306,130,1,1487.724845,1564.446687,Loss
+Washington Redskins,New York Giants,2018,13,0,16,40,204,84,3,175,227,1,1471.749538,1400.807839,Loss
+Washington Redskins,Jacksonville Jaguars,2018,14,1,16,13,136,109,0,20,172,2,1424.662283,1433.318121,Win
+Washington Redskins,Tennessee Titans,2018,15,1,16,25,131,161,2,192,99,0,1442.001412,1551.086686,Loss
+Washington Redskins,Philadelphia Eagles,2018,16,0,0,24,68,21,1,231,129,1,1430.542116,1602.775278,Loss
+Arizona Cardinals,Detroit Lions,2017,1,1,23,35,263,45,4,285,82,1,1536.821593,1500.732112,Loss
+Arizona Cardinals,Indianapolis Colts,2017,2,1,16,13,306,83,1,190,76,1,1513.606583,1471.180495,Win
+Arizona Cardinals,Dallas Cowboys,2017,3,0,17,28,283,49,0,174,99,0,1528.522023,1560.168915,Loss
+Arizona Cardinals,San Francisco 49ers,2017,4,0,18,15,317,51,1,210,95,1,1500.875665,1319.136609,Win
+Arizona Cardinals,Philadelphia Eagles,2017,5,1,7,34,276,31,1,297,122,1,1505.727213,1549.869753,Loss
+Arizona Cardinals,Tampa Bay Buccaneers,2017,6,0,38,33,272,160,2,344,70,2,1483.637492,1489.507371,Win
+Arizona Cardinals,Los Angeles Rams,2017,7,1,0,33,171,25,2,228,197,1,1498.144873,1475.777774,Loss
+Arizona Cardinals,San Francisco 49ers,2017,8,1,20,10,201,167,2,266,63,2,1460.228721,1281.86176,Win
+Arizona Cardinals,Seattle Seahawks,2017,9,0,16,22,256,34,1,212,75,0,1475.845056,1584.90741,Loss
+Arizona Cardinals,Houston Texans,2017,10,1,21,31,244,48,2,223,134,2,1459.174527,1440.429222,Loss
+Arizona Cardinals,Jacksonville Jaguars,2017,11,0,27,24,236,108,2,128,91,3,1438.797627,1537.887397,Win
+Arizona Cardinals,Los Angeles Rams,2017,12,0,16,32,187,118,2,213,90,1,1454.255962,1568.421349,Loss
+Arizona Cardinals,Tennessee Titans,2017,13,0,12,7,125,136,0,139,65,2,1430.438805,1516.342141,Win
+Arizona Cardinals,Washington Redskins,2017,14,1,15,20,145,141,2,187,31,1,1449.615313,1446.601926,Loss
+Arizona Cardinals,New York Giants,2017,15,0,23,0,215,74,2,250,43,3,1435.26526,1355.025305,Win
+Arizona Cardinals,Seattle Seahawks,2017,16,1,26,24,143,116,1,195,101,0,1453.29361,1583.257242,Win
+Atlanta Falcons,Chicago Bears,2017,1,1,23,17,308,64,0,176,125,0,1617.20457,1383.934716,Win
+Atlanta Falcons,Green Bay Packers,2017,2,0,34,23,223,141,0,308,59,2,1627.152133,1603.073,Win
+Atlanta Falcons,Detroit Lions,2017,3,1,30,26,277,151,3,253,71,0,1645.041803,1555.831841,Win
+Atlanta Falcons,Buffalo Bills,2017,4,0,17,23,242,147,3,164,117,0,1659.853512,1514.47261,Loss
+Atlanta Falcons,Miami Dolphins,2017,5,0,17,20,239,100,1,151,138,1,1626.696948,1475.787722,Loss
+Atlanta Falcons,New England Patriots,2017,6,1,7,23,223,120,0,241,162,0,1602.8384,1672.631096,Loss
+Atlanta Falcons,New York Jets,2017,7,1,25,20,246,140,2,236,43,1,1586.009065,1448.238298,Win
+Atlanta Falcons,Carolina Panthers,2017,8,1,17,20,302,53,1,129,201,2,1599.772472,1529.437022,Loss
+Atlanta Falcons,Dallas Cowboys,2017,9,0,27,7,204,132,1,126,107,2,1585.662437,1611.370429,Win
+Atlanta Falcons,Seattle Seahawks,2017,10,1,34,31,190,89,1,224,136,2,1612.205117,1601.577939,Win
+Atlanta Falcons,Tampa Bay Buccaneers,2017,11,0,34,20,368,148,1,279,94,0,1628.625875,1470.152818,Win
+Atlanta Falcons,Minnesota Vikings,2017,12,0,9,14,173,102,0,207,105,0,1639.268519,1629.492128,Loss
+Atlanta Falcons,New Orleans Saints,2017,13,0,20,17,211,132,3,256,50,1,1616.789031,1642.979125,Win
+Atlanta Falcons,Tampa Bay Buccaneers,2017,14,1,24,21,209,201,0,289,84,1,1628.896257,1432.050427,Win
+Atlanta Falcons,New Orleans Saints,2017,15,1,13,23,264,67,2,229,86,1,1637.237354,1638.875282,Loss
+Atlanta Falcons,Carolina Panthers,2017,16,0,22,10,311,60,0,161,87,3,1618.37336,1603.691093,Win
+Baltimore Ravens,Cincinnati Bengals,2017,1,1,20,0,111,157,1,144,77,5,1491.099567,1515.969638,Win
+Baltimore Ravens,Cleveland Browns,2017,2,0,24,10,201,136,2,293,93,5,1530.873673,1329.605337,Win
+Baltimore Ravens,Jacksonville Jaguars,2017,3,1,7,44,52,134,3,244,166,0,1539.453663,1395.515757,Loss
+Baltimore Ravens,Pittsburgh Steelers,2017,4,0,9,26,206,82,3,208,173,1,1485.269528,1588.589459,Loss
+Baltimore Ravens,Oakland Raiders,2017,5,1,30,17,222,143,0,137,108,1,1459.981316,1525.307756,Win
+Baltimore Ravens,Chicago Bears,2017,6,0,24,27,166,125,3,111,231,2,1498.08915,1370.889595,Loss
+Baltimore Ravens,Minnesota Vikings,2017,7,1,16,24,144,64,0,188,169,1,1475.259944,1542.976308,Loss
+Baltimore Ravens,Miami Dolphins,2017,8,0,40,0,121,174,0,151,45,2,1462.089618,1508.913448,Win
+Baltimore Ravens,Tennessee Titans,2017,9,1,20,23,268,73,2,186,71,1,1496.995953,1475.852339,Loss
+Baltimore Ravens,Green Bay Packers,2017,10,1,23,0,161,58,1,190,75,5,1485.110609,1539.560675,Win
+Baltimore Ravens,Houston Texans,2017,11,0,23,16,155,139,0,237,66,3,1529.83469,1460.806122,Win
+Baltimore Ravens,Detroit Lions,2017,12,0,44,20,269,101,0,294,78,3,1542.227901,1538.038503,Win
+Baltimore Ravens,Pittsburgh Steelers,2017,13,1,38,39,261,152,1,486,59,0,1567.301353,1659.651297,Loss
+Baltimore Ravens,Cleveland Browns,2017,14,1,27,10,279,97,0,136,130,4,1563.577076,1219.33761,Win
+Baltimore Ravens,Indianapolis Colts,2017,15,0,23,16,220,103,0,203,93,0,1572.1408,1343.452845,Win
+Baltimore Ravens,Cincinnati Bengals,2017,16,0,27,31,194,118,1,213,146,1,1577.853428,1431.97461,Loss
+Buffalo Bills,New York Jets,2017,1,0,21,12,218,190,1,176,38,2,1484.127683,1451.565526,Win
+Buffalo Bills,Carolina Panthers,2017,2,1,3,9,107,69,0,178,77,0,1500.142289,1547.121106,Loss
+Buffalo Bills,Denver Broncos,2017,3,0,26,16,197,75,0,255,111,2,1487.395191,1590.625363,Win
+Buffalo Bills,Atlanta Falcons,2017,4,1,23,17,164,117,0,242,147,3,1514.47261,1659.853512,Win
+Buffalo Bills,Cincinnati Bengals,2017,5,1,16,20,139,82,1,323,65,3,1547.629174,1474.003552,Loss
+Buffalo Bills,Tampa Bay Buccaneers,2017,6,0,30,27,261,173,1,378,69,3,1531.070386,1474.99999,Win
+Buffalo Bills,Oakland Raiders,2017,7,0,34,14,165,166,0,313,54,4,1539.808155,1487.135904,Win
+Buffalo Bills,New York Jets,2017,8,1,21,34,244,63,3,137,194,0,1559.277565,1434.474891,Loss
+Buffalo Bills,New Orleans Saints,2017,9,0,10,47,129,69,1,184,298,1,1527.525714,1609.669092,Loss
+Buffalo Bills,Los Angeles Chargers,2017,10,1,24,54,220,173,6,283,146,0,1493.210675,1453.449015,Loss
+Buffalo Bills,Kansas City Chiefs,2017,11,1,16,10,164,104,0,181,55,1,1461.722169,1618.223846,Win
+Buffalo Bills,New England Patriots,2017,12,0,3,23,85,183,1,244,191,1,1495.546498,1730.794624,Loss
+Buffalo Bills,Indianapolis Colts,2017,13,0,13,7,92,227,2,64,163,0,1480.123813,1379.795115,Win
+Buffalo Bills,Miami Dolphins,2017,14,0,24,16,212,116,0,249,100,3,1490.206439,1470.773548,Win
+Buffalo Bills,New England Patriots,2017,15,1,16,37,242,84,0,218,193,1,1506.323199,1723.19056,Loss
+Buffalo Bills,Miami Dolphins,2017,16,1,22,16,186,126,0,263,93,1,1497.289326,1442.425111,Win
+Carolina Panthers,San Francisco 49ers,2017,1,1,23,3,171,116,2,166,51,2,1526.877166,1353.459533,Win
+Carolina Panthers,Buffalo Bills,2017,2,0,9,3,178,77,0,107,69,0,1547.121106,1500.142289,Win
+Carolina Panthers,New Orleans Saints,2017,3,0,13,34,156,132,3,213,149,0,1559.868204,1459.943184,Loss
+Carolina Panthers,New England Patriots,2017,4,1,33,30,304,140,2,293,80,0,1511.683707,1670.425181,Win
+Carolina Panthers,Detroit Lions,2017,5,1,27,24,334,28,0,192,50,1,1535.875638,1565.326231,Win
+Carolina Panthers,Philadelphia Eagles,2017,6,0,23,28,225,80,3,209,101,1,1554.20393,1571.959474,Loss
+Carolina Panthers,Chicago Bears,2017,7,1,3,17,185,108,3,85,68,0,1533.418436,1393.7188,Loss
+Carolina Panthers,Tampa Bay Buccaneers,2017,8,1,17,3,154,100,1,194,85,3,1499.450268,1466.262221,Win
+Carolina Panthers,Atlanta Falcons,2017,9,0,20,17,129,201,2,302,53,1,1529.437022,1599.772472,Win
+Carolina Panthers,Miami Dolphins,2017,10,0,45,21,254,294,0,213,100,1,1543.547057,1456.778278,Win
+Carolina Panthers,New York Jets,2017,11,1,35,27,154,145,0,282,109,1,1561.282431,1449.682265,Win
+Carolina Panthers,New Orleans Saints,2017,12,1,21,31,167,112,1,252,148,1,1579.930178,1627.296822,Loss
+Carolina Panthers,Minnesota Vikings,2017,13,0,31,24,129,216,1,256,100,3,1564.247875,1651.971616,Win
+Carolina Panthers,Green Bay Packers,2017,14,0,31,24,236,151,0,264,120,4,1586.631597,1511.009555,Win
+Carolina Panthers,Tampa Bay Buccaneers,2017,15,0,22,19,140,115,1,326,66,3,1598.67139,1423.70933,Win
+Carolina Panthers,Atlanta Falcons,2017,16,1,10,22,161,87,3,311,60,0,1603.691093,1618.37336,Loss
+Chicago Bears,Atlanta Falcons,2017,1,0,17,23,176,125,0,308,64,0,1383.934716,1617.20457,Loss
+Chicago Bears,Tampa Bay Buccaneers,2017,2,1,7,29,290,20,4,194,117,1,1373.987153,1505.564971,Loss
+Chicago Bears,Pittsburgh Steelers,2017,3,0,23,17,84,222,2,212,70,2,1359.948655,1620.863437,Win
+Chicago Bears,Green Bay Packers,2017,4,1,14,35,205,103,4,169,91,0,1392.222633,1591.436405,Loss
+Chicago Bears,Minnesota Vikings,2017,5,0,17,20,159,115,2,141,159,0,1382.325332,1501.530406,Loss
+Chicago Bears,Baltimore Ravens,2017,6,1,27,24,111,231,2,166,125,3,1370.889595,1498.08915,Win
+Chicago Bears,Carolina Panthers,2017,7,0,17,3,85,68,0,185,108,3,1393.7188,1533.418436,Win
+Chicago Bears,New Orleans Saints,2017,8,1,12,20,150,157,1,286,101,2,1427.686968,1589.389264,Loss
+Chicago Bears,Green Bay Packers,2017,9,0,16,23,268,55,1,182,160,0,1419.188303,1521.286376,Loss
+Chicago Bears,Detroit Lions,2017,10,0,24,27,176,222,1,287,65,1,1400.914005,1549.873141,Loss
+Chicago Bears,Philadelphia Eagles,2017,11,1,3,31,134,6,2,244,176,3,1390.726173,1663.982543,Loss
+Chicago Bears,San Francisco 49ers,2017,12,0,14,15,85,62,0,278,110,1,1383.437753,1287.585931,Loss
+Chicago Bears,Cincinnati Bengals,2017,13,1,33,7,250,232,0,164,70,2,1372.725169,1463.578256,Win
+Chicago Bears,Detroit Lions,2017,14,1,10,20,306,43,3,202,91,1,1423.120288,1526.728714,Loss
+Chicago Bears,Cleveland Browns,2017,15,0,20,3,161,97,0,178,76,3,1410.881221,1210.773886,Win
+Chicago Bears,Minnesota Vikings,2017,16,1,10,23,171,30,0,180,147,0,1420.093644,1660.89179,Loss
+Cincinnati Bengals,Baltimore Ravens,2017,1,0,0,20,144,77,5,111,157,1,1515.969638,1491.099567,Loss
+Cincinnati Bengals,Houston Texans,2017,2,0,9,13,213,82,1,98,168,0,1476.195532,1451.208768,Loss
+Cincinnati Bengals,Green Bay Packers,2017,3,1,24,27,191,110,1,280,64,1,1455.163151,1585.183329,Loss
+Cincinnati Bengals,Cleveland Browns,2017,4,1,31,7,264,86,1,170,45,1,1448.910076,1314.926228,Win
+Cincinnati Bengals,Buffalo Bills,2017,5,0,20,16,323,65,3,139,82,1,1474.003552,1547.629174,Win
+Cincinnati Bengals,Pittsburgh Steelers,2017,6,1,14,29,108,71,2,268,152,0,1490.562339,1591.370085,Loss
+Cincinnati Bengals,Indianapolis Colts,2017,7,0,24,23,218,58,2,216,115,1,1476.227791,1390.53219,Win
+Cincinnati Bengals,Jacksonville Jaguars,2017,8,1,7,23,119,29,0,259,149,1,1480.065313,1497.563781,Loss
+Cincinnati Bengals,Tennessee Titans,2017,9,1,20,24,255,53,2,236,180,2,1459.122334,1487.737684,Loss
+Cincinnati Bengals,Denver Broncos,2017,10,1,20,17,141,49,0,229,112,2,1447.74661,1455.910703,Win
+Cincinnati Bengals,Cleveland Browns,2017,11,0,30,16,209,152,0,236,169,0,1465.062314,1239.397305,Win
+Cincinnati Bengals,Pittsburgh Steelers,2017,12,0,20,23,223,130,0,282,92,1,1472.620974,1650.608578,Loss
+Cincinnati Bengals,Chicago Bears,2017,13,0,7,33,164,70,2,250,232,0,1463.578256,1372.725169,Loss
+Cincinnati Bengals,Minnesota Vikings,2017,14,1,7,34,115,46,2,222,124,1,1413.183137,1629.587894,Loss
+Cincinnati Bengals,Detroit Lions,2017,15,0,26,17,222,142,1,189,87,1,1403.420947,1538.967782,Win
+Cincinnati Bengals,Baltimore Ravens,2017,16,1,31,27,213,146,1,194,118,1,1431.97461,1577.853428,Win
+Cleveland Browns,Pittsburgh Steelers,2017,1,0,18,21,180,57,1,255,35,1,1335.76766,1598.852911,Loss
+Cleveland Browns,Baltimore Ravens,2017,2,1,10,24,293,93,5,201,136,2,1329.605337,1530.873673,Loss
+Cleveland Browns,Indianapolis Colts,2017,3,1,28,31,235,111,3,243,92,1,1321.025347,1456.265055,Loss
+Cleveland Browns,Cincinnati Bengals,2017,4,0,7,31,170,45,1,264,86,1,1314.926228,1448.910076,Loss
+Cleveland Browns,New York Jets,2017,5,0,14,17,279,140,3,178,34,1,1289.832752,1461.134047,Loss
+Cleveland Browns,Houston Texans,2017,6,1,17,33,113,134,3,217,123,1,1280.533084,1486.922322,Loss
+Cleveland Browns,Tennessee Titans,2017,7,0,9,12,218,66,3,189,80,1,1271.790246,1467.468825,Loss
+Cleveland Browns,Minnesota Vikings,2017,8,0,16,33,161,115,2,287,88,1,1263.406731,1556.146634,Loss
+Cleveland Browns,Detroit Lions,2017,9,1,24,38,212,201,2,241,104,1,1255.42663,1544.496361,Loss
+Cleveland Browns,Jacksonville Jaguars,2017,10,0,7,19,134,50,5,145,139,1,1250.04985,1527.234851,Loss
+Cleveland Browns,Cincinnati Bengals,2017,11,1,16,30,236,169,0,209,152,0,1239.397305,1465.062314,Loss
+Cleveland Browns,Los Angeles Chargers,2017,12,1,10,19,202,89,2,335,94,0,1231.838645,1530.044874,Loss
+Cleveland Browns,Green Bay Packers,2017,13,0,21,27,209,136,2,256,85,0,1227.490928,1502.856237,Loss
+Cleveland Browns,Baltimore Ravens,2017,14,0,10,27,136,130,4,279,97,0,1219.33761,1563.577076,Loss
+Cleveland Browns,Chicago Bears,2017,15,1,3,20,178,76,3,161,97,0,1210.773886,1410.881221,Loss
+Cleveland Browns,Pittsburgh Steelers,2017,16,1,24,28,272,102,2,224,124,2,1201.561463,1663.055594,Loss
+Dallas Cowboys,New York Giants,2017,1,0,19,3,263,129,0,198,35,1,1569.472083,1530.436026,Win
+Dallas Cowboys,Denver Broncos,2017,2,1,17,42,228,40,2,202,178,2,1588.657952,1562.136326,Loss
+Dallas Cowboys,Arizona Cardinals,2017,3,1,28,17,174,99,0,283,49,0,1560.168915,1528.522023,Win
+Dallas Cowboys,Los Angeles Rams,2017,4,0,30,35,251,189,2,244,168,0,1587.815273,1428.301051,Loss
+Dallas Cowboys,Green Bay Packers,2017,5,0,31,35,245,163,3,182,160,1,1556.505381,1601.333706,Loss
+Dallas Cowboys,San Francisco 49ers,2017,6,1,40,10,236,265,0,187,103,3,1539.32006,1304.63195,Win
+Dallas Cowboys,Washington Redskins,2017,7,1,33,19,138,169,1,236,49,3,1556.760588,1505.623348,Win
+Dallas Cowboys,Kansas City Chiefs,2017,8,0,28,17,244,131,0,255,68,1,1585.099607,1667.145951,Win
+Dallas Cowboys,Atlanta Falcons,2017,9,1,7,27,126,107,2,204,132,1,1611.370429,1585.662437,Loss
+Dallas Cowboys,Philadelphia Eagles,2017,10,0,9,37,113,112,4,168,215,0,1584.827749,1627.817401,Loss
+Dallas Cowboys,Los Angeles Chargers,2017,11,0,6,28,168,79,2,434,81,0,1548.662607,1484.937521,Loss
+Dallas Cowboys,Washington Redskins,2017,12,0,38,14,93,182,0,224,56,4,1503.555254,1487.648665,Win
+Dallas Cowboys,New York Giants,2017,13,1,30,10,332,122,0,228,102,2,1527.500303,1384.427197,Win
+Dallas Cowboys,Oakland Raiders,2017,14,1,20,17,204,126,2,171,122,1,1550.404174,1482.574546,Win
+Dallas Cowboys,Seattle Seahawks,2017,15,0,12,21,154,128,3,60,76,0,1564.136553,1554.369666,Loss
+Dallas Cowboys,Philadelphia Eagles,2017,16,1,6,0,172,129,1,149,70,2,1535.248978,1679.871227,Win
+Denver Broncos,Los Angeles Chargers,2017,1,0,24,21,181,140,2,185,64,1,1555.532966,1437.046156,Win
+Denver Broncos,Dallas Cowboys,2017,2,0,42,17,202,178,2,228,40,2,1562.136326,1588.657952,Win
+Denver Broncos,Buffalo Bills,2017,3,1,16,26,255,111,2,197,75,0,1590.625363,1487.395191,Loss
+Denver Broncos,Oakland Raiders,2017,4,0,16,10,155,143,0,230,24,1,1563.547943,1539.307913,Win
+Denver Broncos,New York Giants,2017,5,0,10,23,366,46,3,118,148,0,1577.5481,1436.806581,Loss
+Denver Broncos,Los Angeles Chargers,2017,6,1,0,21,182,69,3,162,80,0,1532.962511,1434.008317,Loss
+Denver Broncos,Kansas City Chiefs,2017,7,1,19,29,187,177,5,197,79,2,1498.509108,1657.758165,Loss
+Denver Broncos,Philadelphia Eagles,2017,8,1,23,51,191,35,2,222,197,1,1489.121322,1612.114356,Loss
+Denver Broncos,New England Patriots,2017,9,0,16,41,221,118,2,297,99,0,1473.418277,1695.745045,Loss
+Denver Broncos,Cincinnati Bengals,2017,10,0,17,20,229,112,2,141,49,0,1455.910703,1447.74661,Loss
+Denver Broncos,Oakland Raiders,2017,11,1,14,21,160,56,1,244,104,1,1438.594999,1472.396021,Loss
+Denver Broncos,Miami Dolphins,2017,12,1,9,35,167,103,3,222,145,3,1424.205745,1404.88617,Loss
+Denver Broncos,New York Jets,2017,13,0,23,0,189,84,0,41,59,2,1396.138686,1458.093362,Win
+Denver Broncos,Indianapolis Colts,2017,14,1,25,13,251,211,1,158,70,0,1427.597124,1369.712489,Win
+Denver Broncos,Washington Redskins,2017,15,1,11,27,171,159,3,299,87,2,1453.856768,1460.951979,Loss
+Denver Broncos,Kansas City Chiefs,2017,16,0,24,27,226,110,3,269,110,2,1432.03587,1606.061627,Loss
+Detroit Lions,Arizona Cardinals,2017,1,0,35,23,285,82,1,263,45,4,1500.732112,1536.821593,Win
+Detroit Lions,New York Giants,2017,2,1,24,10,119,138,1,208,62,1,1523.947122,1511.250157,Win
+Detroit Lions,Atlanta Falcons,2017,3,0,26,30,253,71,0,277,151,3,1555.831841,1645.041803,Loss
+Detroit Lions,Minnesota Vikings,2017,4,1,14,7,154,97,0,197,87,3,1541.020133,1525.836505,Win
+Detroit Lions,Carolina Panthers,2017,5,0,24,27,192,50,1,334,28,0,1565.326231,1535.875638,Loss
+Detroit Lions,New Orleans Saints,2017,6,1,38,52,281,66,5,186,193,3,1546.997939,1536.634268,Loss
+Detroit Lions,Pittsburgh Steelers,2017,7,0,15,20,411,71,1,317,75,2,1524.695131,1605.704633,Loss
+Detroit Lions,Green Bay Packers,2017,8,1,30,17,353,64,1,233,78,0,1507.726063,1558.056674,Win
+Detroit Lions,Cleveland Browns,2017,9,0,38,24,241,104,1,212,201,2,1544.496361,1255.42663,Win
+Detroit Lions,Chicago Bears,2017,10,1,27,24,287,65,1,176,222,1,1549.873141,1400.914005,Win
+Detroit Lions,Minnesota Vikings,2017,11,0,23,30,236,53,2,272,136,0,1560.060972,1607.469659,Loss
+Detroit Lions,Baltimore Ravens,2017,12,1,20,44,294,78,3,269,101,0,1538.038503,1542.227901,Loss
+Detroit Lions,Tampa Bay Buccaneers,2017,13,1,24,21,381,53,3,267,133,5,1512.965052,1445.81409,Win
+Detroit Lions,Chicago Bears,2017,14,0,20,10,202,91,1,306,43,3,1526.728714,1423.120288,Win
+Detroit Lions,Cincinnati Bengals,2017,15,1,17,26,189,87,1,222,142,1,1538.967782,1403.420947,Loss
+Detroit Lions,Green Bay Packers,2017,16,0,35,11,305,51,0,153,103,4,1510.414119,1477.428056,Win
+Green Bay Packers,Seattle Seahawks,2017,1,0,17,9,286,84,1,135,90,1,1586.722386,1570.901591,Win
+Green Bay Packers,Atlanta Falcons,2017,2,1,23,34,308,59,2,223,141,0,1603.073,1627.152133,Loss
+Green Bay Packers,Cincinnati Bengals,2017,3,0,27,24,280,64,1,191,110,1,1585.183329,1455.163151,Win
+Green Bay Packers,Chicago Bears,2017,4,0,35,14,169,91,0,205,103,4,1591.436405,1392.222633,Win
+Green Bay Packers,Dallas Cowboys,2017,5,1,35,31,182,160,1,245,163,3,1601.333706,1556.505381,Win
+Green Bay Packers,Minnesota Vikings,2017,6,1,10,23,155,72,3,239,112,2,1618.519027,1512.966143,Loss
+Green Bay Packers,New Orleans Saints,2017,7,0,17,26,79,181,1,324,161,2,1588.508862,1558.937075,Loss
+Green Bay Packers,Detroit Lions,2017,8,0,17,30,233,78,0,353,64,1,1558.056674,1507.726063,Loss
+Green Bay Packers,Chicago Bears,2017,9,1,23,16,182,160,0,268,55,1,1521.286376,1419.188303,Win
+Green Bay Packers,Baltimore Ravens,2017,10,0,0,23,190,75,5,161,58,1,1539.560675,1485.110609,Loss
+Green Bay Packers,Pittsburgh Steelers,2017,11,1,28,31,227,80,0,341,121,3,1494.836593,1644.932139,Loss
+Green Bay Packers,Tampa Bay Buccaneers,2017,12,0,26,20,77,199,1,230,165,1,1489.160154,1459.510174,Win
+Green Bay Packers,Cleveland Browns,2017,13,1,27,21,256,85,0,209,136,2,1502.856237,1227.490928,Win
+Green Bay Packers,Carolina Panthers,2017,14,1,24,31,264,120,4,236,151,0,1511.009555,1586.631597,Loss
+Green Bay Packers,Minnesota Vikings,2017,15,0,0,16,126,113,2,124,112,0,1498.969762,1639.350084,Loss
+Green Bay Packers,Detroit Lions,2017,16,1,11,35,153,103,4,305,51,0,1477.428056,1510.414119,Loss
+Houston Texans,Jacksonville Jaguars,2017,1,0,7,29,110,93,4,125,155,0,1502.139008,1381.984201,Loss
+Houston Texans,Cincinnati Bengals,2017,2,1,13,9,98,168,0,213,82,1,1451.208768,1476.195532,Win
+Houston Texans,New England Patriots,2017,3,1,33,36,292,125,2,337,59,1,1472.241148,1665.857393,Loss
+Houston Texans,Tennessee Titans,2017,4,0,57,14,272,173,1,109,86,5,1467.673361,1494.308852,Win
+Houston Texans,Kansas City Chiefs,2017,5,0,34,42,248,144,1,323,127,0,1500.77632,1686.762878,Loss
+Houston Texans,Cleveland Browns,2017,6,0,33,17,217,123,1,113,134,3,1486.922322,1280.533084,Win
+Houston Texans,Seattle Seahawks,2017,7,1,38,41,367,142,3,446,33,1,1495.66516,1600.861896,Loss
+Houston Texans,Indianapolis Colts,2017,8,0,14,20,194,94,1,279,92,1,1488.640924,1386.694668,Loss
+Houston Texans,Los Angeles Rams,2017,9,1,7,33,194,89,4,339,104,0,1458.178767,1550.016949,Loss
+Houston Texans,Arizona Cardinals,2017,10,0,31,21,223,134,2,244,48,2,1440.429222,1459.174527,Win
+Houston Texans,Baltimore Ravens,2017,11,1,16,23,237,66,3,155,139,0,1460.806122,1529.83469,Loss
+Houston Texans,Tennessee Titans,2017,12,1,13,24,331,53,1,146,198,1,1448.412911,1500.405486,Loss
+Houston Texans,San Francisco 49ers,2017,13,0,16,26,221,90,1,314,102,1,1432.476257,1298.298514,Loss
+Houston Texans,Jacksonville Jaguars,2017,14,1,7,45,99,87,1,326,138,0,1392.458884,1557.1272,Loss
+Houston Texans,Pittsburgh Steelers,2017,15,0,6,34,51,176,2,226,104,0,1378.495026,1648.582004,Loss
+Houston Texans,Indianapolis Colts,2017,16,1,13,22,124,85,1,104,146,0,1364.021436,1337.740217,Loss
+Indianapolis Colts,Los Angeles Rams,2017,1,1,9,46,150,75,3,310,63,1,1513.712137,1398.793458,Loss
+Indianapolis Colts,Arizona Cardinals,2017,2,0,13,16,190,76,1,306,83,1,1471.180495,1513.606583,Loss
+Indianapolis Colts,Cleveland Browns,2017,3,0,31,28,243,92,1,235,111,3,1456.265055,1321.025347,Win
+Indianapolis Colts,Seattle Seahawks,2017,4,1,18,46,139,98,2,283,194,2,1462.364174,1537.74466,Loss
+Indianapolis Colts,San Francisco 49ers,2017,5,0,26,23,288,159,1,336,66,0,1442.847034,1314.285061,Win
+Indianapolis Colts,Tennessee Titans,2017,6,1,22,36,212,85,1,305,168,1,1449.143629,1445.748575,Loss
+Indianapolis Colts,Jacksonville Jaguars,2017,7,0,0,27,136,96,0,330,188,2,1427.423379,1460.672593,Loss
+Indianapolis Colts,Cincinnati Bengals,2017,8,1,23,24,216,115,1,218,58,2,1390.53219,1476.227791,Loss
+Indianapolis Colts,Houston Texans,2017,9,1,20,14,279,92,1,194,94,1,1386.694668,1488.640924,Win
+Indianapolis Colts,Pittsburgh Steelers,2017,10,0,17,20,196,71,1,228,88,1,1417.156825,1622.673701,Loss
+Indianapolis Colts,Tennessee Titans,2017,11,0,16,20,165,89,1,184,92,2,1409.126573,1484.885223,Loss
+Indianapolis Colts,Jacksonville Jaguars,2017,12,1,10,30,149,141,2,330,96,0,1393.60631,1522.429061,Loss
+Indianapolis Colts,Buffalo Bills,2017,13,1,7,13,64,163,0,92,227,2,1379.795115,1480.123813,Loss
+Indianapolis Colts,Denver Broncos,2017,14,0,13,25,158,70,0,251,211,1,1369.712489,1427.597124,Loss
+Indianapolis Colts,Baltimore Ravens,2017,15,1,16,23,203,93,0,220,103,0,1343.452845,1572.1408,Loss
+Indianapolis Colts,Houston Texans,2017,16,0,22,13,104,146,0,124,85,1,1337.740217,1364.021436,Win
+Jacksonville Jaguars,Houston Texans,2017,1,1,29,7,125,155,0,110,93,4,1381.984201,1502.139008,Win
+Jacksonville Jaguars,Tennessee Titans,2017,2,0,16,37,211,99,3,211,179,1,1432.914441,1436.145676,Loss
+Jacksonville Jaguars,Baltimore Ravens,2017,3,0,44,7,244,166,0,52,134,3,1395.515757,1539.453663,Win
+Jacksonville Jaguars,New York Jets,2017,4,1,20,23,136,175,1,215,256,2,1449.699892,1450.179332,Loss
+Jacksonville Jaguars,Pittsburgh Steelers,2017,5,1,30,9,82,231,1,301,70,5,1438.745177,1613.877671,Win
+Jacksonville Jaguars,Los Angeles Rams,2017,6,0,17,27,220,169,1,107,142,1,1494.217278,1442.233089,Loss
+Jacksonville Jaguars,Indianapolis Colts,2017,7,1,27,0,330,188,2,136,96,0,1460.672593,1427.423379,Win
+Jacksonville Jaguars,Cincinnati Bengals,2017,8,0,23,7,259,149,1,119,29,0,1497.563781,1480.065313,Win
+Jacksonville Jaguars,Los Angeles Chargers,2017,9,0,20,17,263,135,2,235,87,2,1518.50676,1462.177107,Win
+Jacksonville Jaguars,Cleveland Browns,2017,10,1,19,7,145,139,1,134,50,5,1527.234851,1250.04985,Win
+Jacksonville Jaguars,Arizona Cardinals,2017,11,1,24,27,128,91,3,236,108,2,1537.887397,1438.797627,Loss
+Jacksonville Jaguars,Indianapolis Colts,2017,12,0,30,10,330,96,0,149,141,2,1522.429061,1393.60631,Win
+Jacksonville Jaguars,Seattle Seahawks,2017,13,0,30,24,268,156,1,260,141,3,1536.240256,1623.063252,Win
+Jacksonville Jaguars,Houston Texans,2017,14,0,45,7,326,138,0,99,87,1,1557.1272,1392.458884,Win
+Jacksonville Jaguars,San Francisco 49ers,2017,15,1,33,44,380,92,3,238,131,1,1571.091058,1352.818114,Loss
+Jacksonville Jaguars,Tennessee Titans,2017,16,1,10,15,146,83,4,116,116,1,1533.307148,1470.135606,Loss
+Kansas City Chiefs,New England Patriots,2017,1,1,42,27,352,185,1,247,124,0,1613.148952,1687.395154,Win
+Kansas City Chiefs,Philadelphia Eagles,2017,2,0,27,20,232,112,0,299,107,2,1654.014349,1542.718347,Win
+Kansas City Chiefs,Los Angeles Chargers,2017,3,1,24,10,122,189,0,226,104,3,1664.257536,1419.932439,Win
+Kansas City Chiefs,Washington Redskins,2017,4,0,29,20,261,168,0,220,111,1,1677.410417,1525.659019,Win
+Kansas City Chiefs,Houston Texans,2017,5,1,42,34,323,127,0,248,144,1,1686.762878,1500.77632,Win
+Kansas City Chiefs,Pittsburgh Steelers,2017,6,0,13,19,223,28,0,245,194,1,1700.616875,1558.405569,Loss
+Kansas City Chiefs,Oakland Raiders,2017,7,1,30,31,331,94,0,417,88,0,1667.65236,1477.241709,Loss
+Kansas City Chiefs,Denver Broncos,2017,8,0,29,19,197,79,2,187,177,5,1657.758165,1498.509108,Win
+Kansas City Chiefs,Dallas Cowboys,2017,9,1,17,28,255,68,1,244,131,0,1667.145951,1585.099607,Loss
+Kansas City Chiefs,New York Giants,2017,10,1,9,12,229,134,3,205,112,1,1640.875129,1387.706951,Loss
+Kansas City Chiefs,Buffalo Bills,2017,11,0,10,16,181,55,1,164,104,0,1618.223846,1461.722169,Loss
+Kansas City Chiefs,New York Jets,2017,12,1,31,38,362,112,0,331,157,0,1584.399517,1431.034519,Loss
+Kansas City Chiefs,Oakland Raiders,2017,13,0,26,15,243,165,1,198,70,3,1557.340674,1498.020226,Win
+Kansas City Chiefs,Los Angeles Chargers,2017,14,0,30,13,223,174,0,209,98,4,1572.786355,1551.49428,Win
+Kansas City Chiefs,Miami Dolphins,2017,15,0,29,13,301,103,0,286,59,2,1593.829949,1454.656789,Win
+Kansas City Chiefs,Denver Broncos,2017,16,1,27,24,269,110,2,226,110,3,1606.061627,1432.03587,Win
+Los Angeles Chargers,Denver Broncos,2017,1,1,21,24,185,64,1,181,140,2,1437.046156,1555.532966,Loss
+Los Angeles Chargers,Miami Dolphins,2017,2,0,17,19,323,44,0,225,111,0,1430.442797,1508.519331,Loss
+Los Angeles Chargers,Kansas City Chiefs,2017,3,0,10,24,226,104,3,122,189,0,1419.932439,1664.257536,Loss
+Los Angeles Chargers,Philadelphia Eagles,2017,4,0,24,26,342,58,1,240,214,0,1406.779559,1541.323902,Loss
+Los Angeles Chargers,New York Giants,2017,5,1,27,22,258,124,1,183,152,2,1398.233708,1462.622977,Win
+Los Angeles Chargers,Oakland Raiders,2017,6,1,17,16,263,80,1,165,109,2,1424.050103,1487.199923,Win
+Los Angeles Chargers,Denver Broncos,2017,7,0,21,0,162,80,0,182,69,3,1434.008317,1532.962511,Win
+Los Angeles Chargers,New England Patriots,2017,8,1,13,21,192,157,1,317,97,0,1468.461721,1689.460431,Loss
+Los Angeles Chargers,Jacksonville Jaguars,2017,9,1,17,20,235,87,2,263,135,2,1462.177107,1518.50676,Loss
+Los Angeles Chargers,Buffalo Bills,2017,10,0,54,24,283,146,0,220,173,6,1453.449015,1493.210675,Win
+Los Angeles Chargers,Dallas Cowboys,2017,11,1,28,6,434,81,0,168,79,2,1484.937521,1548.662607,Win
+Los Angeles Chargers,Cleveland Browns,2017,12,0,19,10,335,94,0,202,89,2,1530.044874,1231.838645,Win
+Los Angeles Chargers,Washington Redskins,2017,13,0,30,13,314,174,1,136,65,1,1534.392591,1463.703616,Win
+Los Angeles Chargers,Kansas City Chiefs,2017,14,1,13,30,209,98,4,223,174,0,1551.49428,1572.786355,Loss
+Los Angeles Chargers,New York Jets,2017,15,1,14,7,290,89,0,98,197,3,1530.450686,1418.631541,Win
+Los Angeles Chargers,Oakland Raiders,2017,16,0,30,10,380,115,0,231,105,2,1548.084489,1461.642325,Win
+Los Angeles Rams,Indianapolis Colts,2017,1,0,46,9,310,63,1,150,75,3,1398.793458,1513.712137,Win
+Los Angeles Rams,Washington Redskins,2017,2,0,20,27,235,97,2,156,229,0,1441.3251,1472.836752,Loss
+Los Angeles Rams,San Francisco 49ers,2017,3,1,41,39,292,126,2,308,113,2,1418.180242,1329.257417,Win
+Los Angeles Rams,Dallas Cowboys,2017,4,1,35,30,244,168,0,251,189,2,1428.301051,1587.815273,Win
+Los Angeles Rams,Seattle Seahawks,2017,5,0,10,16,275,100,5,179,62,2,1459.610942,1557.261801,Loss
+Los Angeles Rams,Jacksonville Jaguars,2017,6,1,27,17,107,142,1,220,169,1,1442.233089,1494.217278,Win
+Los Angeles Rams,Arizona Cardinals,2017,7,0,33,0,228,197,1,171,25,2,1475.777774,1498.144873,Win
+Los Angeles Rams,New York Giants,2017,8,1,51,17,311,162,0,208,111,3,1513.693926,1455.169928,Win
+Los Angeles Rams,Houston Texans,2017,9,0,33,7,339,104,0,194,89,4,1550.016949,1458.178767,Win
+Los Angeles Rams,Minnesota Vikings,2017,10,1,7,24,209,45,1,280,171,0,1567.766493,1586.182234,Loss
+Los Angeles Rams,New Orleans Saints,2017,11,0,26,20,327,88,1,223,123,0,1546.479069,1649.239102,Win
+Los Angeles Rams,Arizona Cardinals,2017,12,1,32,16,213,90,1,187,118,2,1568.421349,1454.255962,Win
+Los Angeles Rams,Philadelphia Eagles,2017,13,0,35,43,198,109,2,316,139,1,1592.238506,1643.16434,Loss
+Los Angeles Rams,Seattle Seahawks,2017,14,1,42,7,108,244,1,71,78,2,1569.229483,1602.176309,Win
+Los Angeles Rams,Tennessee Titans,2017,15,1,27,23,286,116,1,269,97,1,1617.036125,1482.663406,Win
+Los Angeles Rams,San Francisco 49ers,2017,16,0,13,34,149,102,2,292,169,3,1629.563924,1390.602024,Loss
+Miami Dolphins,Los Angeles Chargers,2017,1,1,19,17,225,111,0,323,44,0,1508.519331,1430.442797,Win
+Miami Dolphins,New York Jets,2017,2,1,6,20,195,30,2,233,103,1,1519.029689,1419.986634,Loss
+Miami Dolphins,New Orleans Saints,2017,3,0,0,20,128,58,1,261,86,0,1488.83699,1508.127681,Loss
+Miami Dolphins,Tennessee Titans,2017,4,0,16,10,78,100,2,119,69,2,1460.330403,1461.205894,Win
+Miami Dolphins,Atlanta Falcons,2017,5,1,20,17,151,138,1,239,100,1,1475.787722,1626.696948,Win
+Miami Dolphins,New York Jets,2017,6,0,31,28,304,53,2,180,92,2,1499.64627,1457.505475,Win
+Miami Dolphins,Baltimore Ravens,2017,7,1,0,40,151,45,2,121,174,0,1508.913448,1462.089618,Loss
+Miami Dolphins,Oakland Raiders,2017,8,0,24,27,309,86,1,295,84,2,1474.007113,1467.666493,Loss
+Miami Dolphins,Carolina Panthers,2017,9,1,21,45,213,100,1,254,294,0,1456.778278,1543.547057,Loss
+Miami Dolphins,Tampa Bay Buccaneers,2017,10,0,20,30,365,83,5,268,53,0,1439.042903,1441.038782,Loss
+Miami Dolphins,New England Patriots,2017,11,1,17,35,154,67,3,221,196,2,1409.928868,1725.751926,Loss
+Miami Dolphins,Denver Broncos,2017,12,0,35,9,222,145,3,167,103,3,1404.88617,1424.205745,Win
+Miami Dolphins,New England Patriots,2017,13,0,27,20,242,120,0,223,25,2,1432.95323,1746.217308,Win
+Miami Dolphins,Buffalo Bills,2017,14,1,16,24,249,100,3,212,116,0,1470.773548,1490.206439,Loss
+Miami Dolphins,Kansas City Chiefs,2017,15,1,13,29,286,59,2,301,103,0,1454.656789,1593.829949,Loss
+Miami Dolphins,Buffalo Bills,2017,16,0,16,22,263,93,1,186,126,0,1442.425111,1497.289326,Loss
+Minnesota Vikings,New Orleans Saints,2017,1,0,29,19,341,129,0,284,60,0,1498.174613,1498.260704,Win
+Minnesota Vikings,Pittsburgh Steelers,2017,2,1,9,26,146,91,1,233,102,0,1517.164496,1605.015234,Loss
+Minnesota Vikings,Tampa Bay Buccaneers,2017,3,0,34,17,369,125,0,316,26,3,1501.316293,1519.603469,Win
+Minnesota Vikings,Detroit Lions,2017,4,0,7,14,197,87,3,154,97,0,1525.836505,1541.020133,Loss
+Minnesota Vikings,Chicago Bears,2017,5,1,20,17,141,159,0,159,115,2,1501.530406,1382.325332,Win
+Minnesota Vikings,Green Bay Packers,2017,6,0,23,10,239,112,2,155,72,3,1512.966143,1618.519027,Win
+Minnesota Vikings,Baltimore Ravens,2017,7,0,24,16,188,169,1,144,64,0,1542.976308,1475.259944,Win
+Minnesota Vikings,Cleveland Browns,2017,8,1,33,16,287,88,1,161,115,2,1556.146634,1263.406731,Win
+Minnesota Vikings,Washington Redskins,2017,9,1,38,30,304,102,2,313,81,1,1564.126735,1500.263051,Win
+Minnesota Vikings,Los Angeles Rams,2017,10,0,24,7,280,171,0,209,45,1,1586.182234,1567.766493,Win
+Minnesota Vikings,Detroit Lions,2017,11,1,30,23,272,136,0,236,53,2,1607.469659,1560.060972,Win
+Minnesota Vikings,Atlanta Falcons,2017,12,1,14,9,207,105,0,173,102,0,1629.492128,1639.268519,Win
+Minnesota Vikings,Carolina Panthers,2017,13,1,24,31,256,100,3,129,216,1,1651.971616,1564.247875,Loss
+Minnesota Vikings,Cincinnati Bengals,2017,14,0,34,7,222,124,1,115,46,2,1629.587894,1413.183137,Win
+Minnesota Vikings,Green Bay Packers,2017,15,1,16,0,124,112,0,126,113,2,1639.350084,1498.969762,Win
+Minnesota Vikings,Chicago Bears,2017,16,0,23,10,180,147,0,171,30,0,1660.89179,1420.093644,Win
+New England Patriots,Kansas City Chiefs,2017,1,0,27,42,247,124,0,352,185,1,1687.395154,1613.148952,Loss
+New England Patriots,New Orleans Saints,2017,2,1,36,20,436,119,0,348,81,0,1646.529757,1479.27082,Win
+New England Patriots,Houston Texans,2017,3,0,36,33,337,59,1,292,125,2,1665.857393,1472.241148,Win
+New England Patriots,Carolina Panthers,2017,4,0,30,33,293,80,0,304,140,2,1670.425181,1511.683707,Loss
+New England Patriots,Tampa Bay Buccaneers,2017,5,1,19,14,289,113,2,319,90,0,1646.23325,1502.976977,Win
+New England Patriots,New York Jets,2017,6,1,24,17,257,118,2,334,74,3,1659.702856,1470.433716,Win
+New England Patriots,Atlanta Falcons,2017,7,0,23,7,241,162,0,223,120,0,1672.631096,1602.8384,Win
+New England Patriots,Los Angeles Chargers,2017,8,0,21,13,317,97,0,192,157,1,1689.460431,1468.461721,Win
+New England Patriots,Denver Broncos,2017,9,1,41,16,297,99,0,221,118,2,1695.745045,1473.418277,Win
+New England Patriots,Oakland Raiders,2017,10,1,33,8,332,89,0,235,109,2,1713.252619,1484.895328,Win
+New England Patriots,Miami Dolphins,2017,11,0,35,17,221,196,2,154,67,3,1725.751926,1409.928868,Win
+New England Patriots,Buffalo Bills,2017,12,1,23,3,244,191,1,85,183,1,1730.794624,1495.546498,Win
+New England Patriots,Miami Dolphins,2017,13,1,20,27,223,25,2,242,120,0,1746.217308,1432.95323,Loss
+New England Patriots,Pittsburgh Steelers,2017,14,1,27,24,283,77,1,270,143,1,1708.39699,1663.375573,Win
+New England Patriots,Buffalo Bills,2017,15,0,37,16,218,193,1,242,84,0,1723.19056,1506.323199,Win
+New England Patriots,New York Jets,2017,16,0,26,6,183,147,0,207,40,0,1732.224433,1400.997738,Win
+New Orleans Saints,Minnesota Vikings,2017,1,1,19,29,284,60,0,341,129,0,1498.260704,1498.174613,Loss
+New Orleans Saints,New England Patriots,2017,2,0,20,36,348,81,0,436,119,0,1479.27082,1646.529757,Loss
+New Orleans Saints,Carolina Panthers,2017,3,1,34,13,213,149,0,156,132,3,1459.943184,1559.868204,Win
+New Orleans Saints,Miami Dolphins,2017,4,1,20,0,261,86,0,128,58,1,1508.127681,1488.83699,Win
+New Orleans Saints,Detroit Lions,2017,5,0,52,38,186,193,3,281,66,5,1536.634268,1546.997939,Win
+New Orleans Saints,Green Bay Packers,2017,6,1,26,17,324,161,2,79,181,1,1558.937075,1588.508862,Win
+New Orleans Saints,Chicago Bears,2017,7,0,20,12,286,101,2,150,157,1,1589.389264,1427.686968,Win
+New Orleans Saints,Tampa Bay Buccaneers,2017,8,0,30,10,256,151,2,113,87,1,1597.887929,1436.275468,Win
+New Orleans Saints,Buffalo Bills,2017,9,1,47,10,184,298,1,129,69,1,1609.669092,1527.525714,Win
+New Orleans Saints,Washington Redskins,2017,10,0,34,31,375,160,1,300,156,0,1643.984131,1478.207552,Win
+New Orleans Saints,Los Angeles Rams,2017,11,1,20,26,223,123,0,327,88,1,1649.239102,1546.479069,Loss
+New Orleans Saints,Carolina Panthers,2017,12,0,31,21,252,148,1,167,112,1,1627.296822,1579.930178,Win
+New Orleans Saints,Atlanta Falcons,2017,13,1,17,20,256,50,1,211,132,3,1642.979125,1616.789031,Loss
+New Orleans Saints,New York Jets,2017,14,0,31,19,281,131,3,170,124,2,1630.871899,1426.634924,Win
+New Orleans Saints,Atlanta Falcons,2017,15,0,23,13,229,86,1,264,67,2,1638.875282,1637.237354,Win
+New Orleans Saints,Tampa Bay Buccaneers,2017,16,1,24,31,231,92,1,345,110,3,1657.739275,1418.689627,Loss
+New York Giants,Dallas Cowboys,2017,1,1,3,19,198,35,1,263,129,0,1530.436026,1569.472083,Loss
+New York Giants,Detroit Lions,2017,2,0,10,24,208,62,1,119,138,1,1511.250157,1523.947122,Loss
+New York Giants,Philadelphia Eagles,2017,3,1,24,27,366,49,2,161,193,1,1479.365438,1532.47516,Loss
+New York Giants,Tampa Bay Buccaneers,2017,4,1,23,25,288,91,0,323,111,0,1470.516696,1495.083257,Loss
+New York Giants,Los Angeles Chargers,2017,5,0,22,27,183,152,2,258,124,1,1462.622977,1398.233708,Loss
+New York Giants,Denver Broncos,2017,6,1,23,10,118,148,0,366,46,3,1436.806581,1577.5481,Win
+New York Giants,Seattle Seahawks,2017,7,0,7,24,131,46,1,321,104,1,1481.39217,1574.639654,Loss
+New York Giants,Los Angeles Rams,2017,8,0,17,51,208,111,3,311,162,0,1455.169928,1513.693926,Loss
+New York Giants,San Francisco 49ers,2017,9,1,21,31,260,114,1,288,186,2,1418.846906,1266.245425,Loss
+New York Giants,Kansas City Chiefs,2017,10,0,12,9,205,112,1,229,134,3,1387.706951,1640.875129,Win
+New York Giants,Washington Redskins,2017,11,1,10,20,86,84,1,201,122,1,1410.358234,1472.95258,Loss
+New York Giants,Oakland Raiders,2017,12,1,17,24,200,65,2,282,119,1,1395.662149,1486.785275,Loss
+New York Giants,Dallas Cowboys,2017,13,0,10,30,228,102,2,332,122,0,1384.427197,1527.500303,Loss
+New York Giants,Philadelphia Eagles,2017,14,0,29,34,429,75,1,233,108,0,1361.523327,1666.173363,Loss
+New York Giants,Arizona Cardinals,2017,15,1,0,23,250,43,3,215,74,2,1355.025305,1435.26526,Loss
+New York Giants,Washington Redskins,2017,16,0,18,10,121,260,1,136,61,3,1336.996956,1482.772876,Win
+New York Jets,Buffalo Bills,2017,1,1,12,21,176,38,2,218,190,1,1451.565526,1484.127683,Loss
+New York Jets,Oakland Raiders,2017,2,1,20,45,145,126,2,230,180,0,1435.55092,1553.421036,Loss
+New York Jets,Miami Dolphins,2017,3,0,20,6,233,103,1,195,30,2,1419.986634,1519.029689,Win
+New York Jets,Jacksonville Jaguars,2017,4,0,23,20,215,256,2,136,175,1,1450.179332,1449.699892,Win
+New York Jets,Cleveland Browns,2017,5,1,17,14,178,34,1,279,140,3,1461.134047,1289.832752,Win
+New York Jets,New England Patriots,2017,6,0,17,24,334,74,3,257,118,2,1470.433716,1659.702856,Loss
+New York Jets,Miami Dolphins,2017,7,1,28,31,180,92,2,304,53,2,1457.505475,1499.64627,Loss
+New York Jets,Atlanta Falcons,2017,8,0,20,25,236,43,1,246,140,2,1448.238298,1586.009065,Loss
+New York Jets,Buffalo Bills,2017,9,0,34,21,137,194,0,244,63,3,1434.474891,1559.277565,Win
+New York Jets,Tampa Bay Buccaneers,2017,10,1,10,15,219,56,2,181,90,1,1466.226743,1424.494305,Loss
+New York Jets,Carolina Panthers,2017,11,0,27,35,282,109,1,154,145,0,1449.682265,1561.282431,Loss
+New York Jets,Kansas City Chiefs,2017,12,0,38,31,331,157,0,362,112,0,1431.034519,1584.399517,Win
+New York Jets,Denver Broncos,2017,13,1,0,23,41,59,2,189,84,0,1458.093362,1396.138686,Loss
+New York Jets,New Orleans Saints,2017,14,1,19,31,170,124,2,281,131,3,1426.634924,1630.871899,Loss
+New York Jets,Los Angeles Chargers,2017,15,0,7,14,98,197,3,290,89,0,1418.631541,1530.450686,Loss
+New York Jets,New England Patriots,2017,16,1,6,26,207,40,0,183,147,0,1400.997738,1732.224433,Loss
+Oakland Raiders,Tennessee Titans,2017,1,1,26,16,250,109,0,255,95,0,1529.85159,1459.715122,Win
+Oakland Raiders,New York Jets,2017,2,0,45,20,230,180,0,145,126,2,1553.421036,1435.55092,Win
+Oakland Raiders,Washington Redskins,2017,3,1,10,27,96,32,3,356,116,2,1568.985322,1495.98161,Loss
+Oakland Raiders,Denver Broncos,2017,4,1,10,16,230,24,1,155,143,0,1539.307913,1563.547943,Loss
+Oakland Raiders,Baltimore Ravens,2017,5,0,17,30,137,108,1,222,143,0,1525.307756,1459.981316,Loss
+Oakland Raiders,Los Angeles Chargers,2017,6,0,16,17,165,109,2,263,80,1,1487.199923,1424.050103,Loss
+Oakland Raiders,Kansas City Chiefs,2017,7,0,31,30,417,88,0,331,94,0,1477.241709,1667.65236,Win
+Oakland Raiders,Buffalo Bills,2017,8,1,14,34,313,54,4,165,166,0,1487.135904,1539.808155,Loss
+Oakland Raiders,Miami Dolphins,2017,9,1,27,24,295,84,2,309,86,1,1467.666493,1474.007113,Win
+Oakland Raiders,New England Patriots,2017,10,0,8,33,235,109,2,332,89,0,1484.895328,1713.252619,Loss
+Oakland Raiders,Denver Broncos,2017,11,0,21,14,244,104,1,160,56,1,1472.396021,1438.594999,Win
+Oakland Raiders,New York Giants,2017,12,0,24,17,282,119,1,200,65,2,1486.785275,1395.662149,Win
+Oakland Raiders,Kansas City Chiefs,2017,13,1,15,26,198,70,3,243,165,1,1498.020226,1557.340674,Loss
+Oakland Raiders,Dallas Cowboys,2017,14,0,17,20,171,122,1,204,126,2,1482.574546,1550.404174,Loss
+Oakland Raiders,Philadelphia Eagles,2017,15,1,10,19,137,137,5,138,78,2,1468.842167,1672.671385,Loss
+Oakland Raiders,Los Angeles Chargers,2017,16,1,10,30,231,105,2,380,115,0,1461.642325,1548.084489,Loss
+Philadelphia Eagles,Washington Redskins,2017,1,1,30,17,298,58,2,200,64,4,1511.097196,1504.457904,Win
+Philadelphia Eagles,Kansas City Chiefs,2017,2,1,20,27,299,107,2,232,112,0,1542.718347,1654.014349,Loss
+Philadelphia Eagles,New York Giants,2017,3,0,27,24,161,193,1,366,49,2,1532.47516,1479.365438,Win
+Philadelphia Eagles,Los Angeles Chargers,2017,4,1,26,24,240,214,0,342,58,1,1541.323902,1406.779559,Win
+Philadelphia Eagles,Arizona Cardinals,2017,5,0,34,7,297,122,1,276,31,1,1549.869753,1505.727213,Win
+Philadelphia Eagles,Carolina Panthers,2017,6,1,28,23,209,101,1,225,80,3,1571.959474,1554.20393,Win
+Philadelphia Eagles,Washington Redskins,2017,7,0,34,24,244,127,1,269,75,1,1592.744968,1519.663074,Win
+Philadelphia Eagles,San Francisco 49ers,2017,8,0,33,10,192,112,1,144,94,2,1606.784694,1287.191422,Win
+Philadelphia Eagles,Denver Broncos,2017,9,0,51,23,222,197,1,191,35,2,1612.114356,1489.121322,Win
+Philadelphia Eagles,Dallas Cowboys,2017,10,1,37,9,168,215,0,113,112,4,1627.817401,1584.827749,Win
+Philadelphia Eagles,Chicago Bears,2017,11,0,31,3,244,176,3,134,6,2,1663.982543,1390.726173,Win
+Philadelphia Eagles,Seattle Seahawks,2017,12,1,10,24,327,98,2,209,101,0,1671.270964,1594.956629,Loss
+Philadelphia Eagles,Los Angeles Rams,2017,13,1,43,35,316,139,1,198,109,2,1643.16434,1592.238506,Win
+Philadelphia Eagles,New York Giants,2017,14,1,34,29,233,108,0,429,75,1,1666.173363,1361.523327,Win
+Philadelphia Eagles,Oakland Raiders,2017,15,0,19,10,138,78,2,137,137,5,1672.671385,1468.842167,Win
+Philadelphia Eagles,Dallas Cowboys,2017,16,0,0,6,149,70,2,172,129,1,1679.871227,1535.248978,Loss
+Pittsburgh Steelers,Cleveland Browns,2017,1,1,21,18,255,35,1,180,57,1,1598.852911,1335.76766,Win
+Pittsburgh Steelers,Minnesota Vikings,2017,2,0,26,9,233,102,0,146,91,1,1605.015234,1517.164496,Win
+Pittsburgh Steelers,Chicago Bears,2017,3,1,17,23,212,70,2,84,222,2,1620.863437,1359.948655,Loss
+Pittsburgh Steelers,Baltimore Ravens,2017,4,1,26,9,208,173,1,206,82,3,1588.589459,1485.269528,Win
+Pittsburgh Steelers,Jacksonville Jaguars,2017,5,0,9,30,301,70,5,82,231,1,1613.877671,1438.745177,Loss
+Pittsburgh Steelers,Kansas City Chiefs,2017,6,1,19,13,245,194,1,223,28,0,1558.405569,1700.616875,Win
+Pittsburgh Steelers,Cincinnati Bengals,2017,7,0,29,14,268,152,0,108,71,2,1591.370085,1490.562339,Win
+Pittsburgh Steelers,Detroit Lions,2017,8,1,20,15,317,75,2,411,71,1,1605.704633,1524.695131,Win
+Pittsburgh Steelers,Indianapolis Colts,2017,9,1,20,17,228,88,1,196,71,1,1622.673701,1417.156825,Win
+Pittsburgh Steelers,Tennessee Titans,2017,10,0,40,17,284,65,0,264,52,4,1630.703953,1499.113409,Win
+Pittsburgh Steelers,Green Bay Packers,2017,11,0,31,28,341,121,3,227,80,0,1644.932139,1494.836593,Win
+Pittsburgh Steelers,Cincinnati Bengals,2017,12,1,23,20,282,92,1,223,130,0,1650.608578,1472.620974,Win
+Pittsburgh Steelers,Baltimore Ravens,2017,13,0,39,38,486,59,0,261,152,1,1659.651297,1567.301353,Win
+Pittsburgh Steelers,New England Patriots,2017,14,0,24,27,270,143,1,283,77,1,1663.375573,1708.39699,Loss
+Pittsburgh Steelers,Houston Texans,2017,15,1,34,6,226,104,0,51,176,2,1648.582004,1378.495026,Win
+Pittsburgh Steelers,Cleveland Browns,2017,16,0,28,24,224,124,2,272,102,2,1663.055594,1201.561463,Win
+San Francisco 49ers,Carolina Panthers,2017,1,0,3,23,166,51,2,171,116,2,1554.550977,1333.215593,Loss
+San Francisco 49ers,Seattle Seahawks,2017,2,1,9,12,89,159,1,181,131,0,1333.215593,1554.550977,Loss
+San Francisco 49ers,Los Angeles Rams,2017,3,0,39,41,308,113,2,292,126,2,1537.74466,1462.364174,Loss
+San Francisco 49ers,Arizona Cardinals,2017,4,1,15,18,210,95,1,317,51,1,1319.136609,1500.875665,Loss
+San Francisco 49ers,Indianapolis Colts,2017,5,1,23,26,336,66,0,288,159,1,1314.285061,1442.847034,Loss
+San Francisco 49ers,Washington Redskins,2017,6,1,24,26,250,85,1,325,94,2,1307.988466,1516.306558,Loss
+San Francisco 49ers,Dallas Cowboys,2017,7,0,10,40,187,103,3,236,265,0,1600.861896,1495.66516,Loss
+San Francisco 49ers,Philadelphia Eagles,2017,8,1,10,33,144,94,2,192,112,1,1287.191422,1606.784694,Loss
+San Francisco 49ers,Arizona Cardinals,2017,9,0,10,20,266,63,2,201,167,2,1607.886131,1477.284329,Loss
+San Francisco 49ers,New York Giants,2017,10,0,31,21,288,186,2,260,114,1,1601.577939,1612.205117,Win
+San Francisco 49ers,Seattle Seahawks,2017,11,0,13,24,196,84,1,228,90,1,1594.956629,1671.270964,Loss
+San Francisco 49ers,Chicago Bears,2017,12,1,15,14,278,110,1,85,62,0,1287.585931,1383.437753,Win
+San Francisco 49ers,Houston Texans,2017,13,1,26,16,314,102,1,221,90,1,1298.298514,1432.476257,Win
+San Francisco 49ers,Tennessee Titans,2017,14,0,25,23,363,51,0,238,90,1,1602.176309,1569.229483,Win
+San Francisco 49ers,Jacksonville Jaguars,2017,15,0,44,33,238,131,1,380,92,3,1583.257242,1453.29361,Win
+San Francisco 49ers,Los Angeles Rams,2017,16,1,34,13,292,169,3,149,102,2,1390.602024,1629.563924,Win
+Seattle Seahawks,Green Bay Packers,2017,1,1,9,17,135,90,1,286,84,1,1570.901591,1586.722386,Loss
+Seattle Seahawks,San Francisco 49ers,2017,2,0,12,9,181,131,0,89,159,1,1353.459533,1526.877166,Win
+Seattle Seahawks,Tennessee Titans,2017,3,1,27,33,364,69,0,225,195,0,1558.509153,1473.54436,Loss
+Seattle Seahawks,Indianapolis Colts,2017,4,0,46,18,283,194,2,139,98,2,1329.257417,1418.180242,Win
+Seattle Seahawks,Los Angeles Rams,2017,5,1,16,10,179,62,2,275,100,5,1557.261801,1459.610942,Win
+Seattle Seahawks,New York Giants,2017,6,1,24,7,321,104,1,131,46,1,1574.639654,1481.39217,Win
+Seattle Seahawks,Houston Texans,2017,7,0,41,38,446,33,1,367,142,3,1304.63195,1539.32006,Win
+Seattle Seahawks,Washington Redskins,2017,8,0,14,17,289,148,2,193,51,1,1281.86176,1460.228721,Loss
+Seattle Seahawks,Arizona Cardinals,2017,9,1,22,16,212,75,0,256,34,1,1584.90741,1475.845056,Win
+Seattle Seahawks,Atlanta Falcons,2017,10,0,31,34,224,136,2,190,89,1,1266.245425,1418.846906,Loss
+Seattle Seahawks,San Francisco 49ers,2017,11,1,24,13,228,90,1,196,84,1,1585.157181,1297.385379,Win
+Seattle Seahawks,Philadelphia Eagles,2017,12,0,24,10,209,101,0,327,98,2,1297.385379,1585.157181,Win
+Seattle Seahawks,Jacksonville Jaguars,2017,13,1,24,30,260,141,3,268,156,1,1623.063252,1536.240256,Loss
+Seattle Seahawks,Los Angeles Rams,2017,14,0,7,42,71,78,2,108,244,1,1338.315886,1497.165633,Loss
+Seattle Seahawks,Dallas Cowboys,2017,15,1,21,12,60,76,0,154,128,3,1554.369666,1564.136553,Win
+Seattle Seahawks,Arizona Cardinals,2017,16,0,24,26,195,101,0,143,116,1,1352.818114,1571.091058,Loss
+Tampa Bay Buccaneers,Chicago Bears,2017,1,0,29,7,194,117,1,290,20,4,1505.564971,1373.987153,Win
+Tampa Bay Buccaneers,Minnesota Vikings,2017,2,1,17,34,316,26,3,369,125,0,1519.603469,1501.316293,Loss
+Tampa Bay Buccaneers,New York Giants,2017,3,0,25,23,323,111,0,288,91,0,1495.083257,1470.516696,Win
+Tampa Bay Buccaneers,New England Patriots,2017,4,0,14,19,319,90,0,289,113,2,1502.976977,1646.23325,Loss
+Tampa Bay Buccaneers,Arizona Cardinals,2017,5,1,33,38,344,70,2,272,160,2,1489.507371,1483.637492,Loss
+Tampa Bay Buccaneers,Buffalo Bills,2017,6,1,27,30,378,69,3,261,173,1,1474.99999,1531.070386,Loss
+Tampa Bay Buccaneers,Carolina Panthers,2017,7,0,3,17,194,85,3,154,100,1,1466.262221,1499.450268,Loss
+Tampa Bay Buccaneers,New Orleans Saints,2017,8,1,10,30,113,87,1,256,151,2,1436.275468,1597.887929,Loss
+Tampa Bay Buccaneers,New York Jets,2017,9,0,15,10,181,90,1,219,56,2,1424.494305,1466.226743,Win
+Tampa Bay Buccaneers,Miami Dolphins,2017,10,1,30,20,268,53,0,365,83,5,1441.038782,1439.042903,Win
+Tampa Bay Buccaneers,Atlanta Falcons,2017,11,1,20,34,279,94,0,368,148,1,1470.152818,1628.625875,Loss
+Tampa Bay Buccaneers,Green Bay Packers,2017,12,1,20,26,230,165,1,77,199,1,1459.510174,1489.160154,Loss
+Tampa Bay Buccaneers,Detroit Lions,2017,13,0,21,24,267,133,5,381,53,3,1445.81409,1512.965052,Loss
+Tampa Bay Buccaneers,Atlanta Falcons,2017,14,0,21,24,289,84,1,209,201,0,1432.050427,1628.896257,Loss
+Tampa Bay Buccaneers,Carolina Panthers,2017,15,1,19,22,326,66,3,140,115,1,1423.70933,1598.67139,Loss
+Tampa Bay Buccaneers,New Orleans Saints,2017,16,0,31,24,345,110,3,231,92,1,1418.689627,1657.739275,Win
+Tennessee Titans,Oakland Raiders,2017,1,0,16,26,255,95,0,250,109,0,1459.715122,1529.85159,Loss
+Tennessee Titans,Jacksonville Jaguars,2017,2,1,37,16,211,179,1,211,99,3,1436.145676,1432.914441,Win
+Tennessee Titans,Seattle Seahawks,2017,3,0,33,27,225,195,0,364,69,0,1473.54436,1558.509153,Win
+Tennessee Titans,Houston Texans,2017,4,1,14,57,109,86,5,272,173,1,1494.308852,1467.673361,Loss
+Tennessee Titans,Miami Dolphins,2017,5,1,10,16,119,69,2,78,100,2,1461.205894,1460.330403,Loss
+Tennessee Titans,Indianapolis Colts,2017,6,0,36,22,305,168,1,212,85,1,1445.748575,1449.143629,Win
+Tennessee Titans,Cleveland Browns,2017,7,1,12,9,189,80,1,218,66,3,1467.468825,1271.790246,Win
+Tennessee Titans,Baltimore Ravens,2017,8,0,23,20,186,71,1,268,73,2,1475.852339,1496.995953,Win
+Tennessee Titans,Cincinnati Bengals,2017,9,0,24,20,236,180,2,255,53,2,1487.737684,1459.122334,Win
+Tennessee Titans,Pittsburgh Steelers,2017,10,1,17,40,264,52,4,284,65,0,1499.113409,1630.703953,Loss
+Tennessee Titans,Indianapolis Colts,2017,11,1,20,16,184,92,2,165,89,1,1484.885223,1409.126573,Win
+Tennessee Titans,Houston Texans,2017,12,0,24,13,146,198,1,331,53,1,1500.405486,1448.412911,Win
+Tennessee Titans,Arizona Cardinals,2017,13,1,7,12,139,65,2,125,136,0,1516.342141,1430.438805,Loss
+Tennessee Titans,San Francisco 49ers,2017,14,1,23,25,238,90,1,363,51,0,1497.165633,1338.315886,Loss
+Tennessee Titans,Los Angeles Rams,2017,15,0,23,27,269,97,1,286,116,1,1482.663406,1617.036125,Loss
+Tennessee Titans,Jacksonville Jaguars,2017,16,0,15,10,116,116,1,146,83,4,1470.135606,1533.307148,Win
+Washington Redskins,Philadelphia Eagles,2017,1,0,17,30,200,64,4,298,58,2,1504.457904,1511.097196,Loss
+Washington Redskins,Los Angeles Rams,2017,2,1,27,20,156,229,0,235,97,2,1472.836752,1441.3251,Win
+Washington Redskins,Oakland Raiders,2017,3,0,27,10,356,116,2,96,32,3,1495.98161,1568.985322,Win
+Washington Redskins,Kansas City Chiefs,2017,4,1,20,29,220,111,1,261,168,0,1525.659019,1677.410417,Loss
+Washington Redskins,San Francisco 49ers,2017,5,0,26,24,325,94,2,250,85,1,1516.306558,1307.988466,Win
+Washington Redskins,Philadelphia Eagles,2017,6,1,24,34,269,75,1,244,127,1,1519.663074,1592.744968,Loss
+Washington Redskins,Dallas Cowboys,2017,7,0,19,33,236,49,3,138,169,1,1505.623348,1556.760588,Loss
+Washington Redskins,Seattle Seahawks,2017,8,1,17,14,193,51,1,289,148,2,1477.284329,1607.886131,Win
+Washington Redskins,Minnesota Vikings,2017,9,0,30,38,313,81,1,304,102,2,1500.263051,1564.126735,Loss
+Washington Redskins,New Orleans Saints,2017,10,1,31,34,300,156,0,375,160,1,1478.207552,1643.984131,Loss
+Washington Redskins,New York Giants,2017,11,0,20,10,201,122,1,86,84,1,1472.95258,1410.358234,Win
+Washington Redskins,Dallas Cowboys,2017,12,1,14,38,224,56,4,93,182,0,1487.648665,1503.555254,Loss
+Washington Redskins,Los Angeles Chargers,2017,13,1,13,30,136,65,1,314,174,1,1463.703616,1534.392591,Loss
+Washington Redskins,Arizona Cardinals,2017,14,0,20,15,187,31,1,145,141,2,1446.601926,1449.615313,Win
+Washington Redskins,Denver Broncos,2017,15,0,27,11,299,87,2,171,159,3,1460.951979,1453.856768,Win
+Washington Redskins,New York Giants,2017,16,1,10,18,136,61,3,121,260,1,1482.772876,1336.996956,Loss

@@ -8,4 +8,4 @@ Another interesting addition would be more football metrics (sacks etc) as well 
 
 Data was originally sourced from fivethirtyeight.com and is available in the "Data" folder.
 
-Obviously, this is a beginner model and should be treated as such - if you decide to take this to Vegas, you're on own your own!
+Obviously, this is a very simple model and should be treated as such - if you decide to take this to Vegas, you're on own your own!

@@ -1,4 +1,4 @@
-# Super-Bowl Prediction using a Random-Forest-Model
+# Super-Bowl Prediction using a Random Forest Model
 
 My goal was to predict the Super Bowl 53 winner using a simple random forest model. 
 
